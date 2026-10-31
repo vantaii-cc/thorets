@@ -1,4 +1,4 @@
-# 🎬 Auto Thờ rét city v1.5 (Threads2Video)
+# 🎬 Auto Thờ rét city v1.5
 
 > **Công cụ hỗ trợ sáng tạo nội dung: Tự động chuyển đổi bài viết và bình luận Threads thành định dạng video ngắn 9:16 (TikTok, Reels, Shorts) kết hợp giọng đọc AI tiếng Việt và giao diện thẻ trực quan.**
 
@@ -8,11 +8,11 @@
 
 Bấm vào link bên dưới để tải trực tiếp bản cài đặt chính thức:
 
-👉 **[⬇️ TẢI XUỐNG THREADS2VIDEO SETUP v1.5.0 (216 MB)](https://github.com/vantaii-cc/thorets/releases/download/v1.5.0/Threads2Video_Setup_v1.5.0.exe)**
+👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT v1.5.0 (216 MB)](https://github.com/vantaii-cc/thorets/releases/download/v1.5.0/Threads2Video_Setup_v1.5.0.exe)**
 
 - **Phiên bản:** v1.5.0 Turbo
 - **Hệ điều hành:** Windows 10 / Windows 11 (64-bit)
-- **Quyền cài đặt:** Cài đặt độc lập vào thư mục người dùng (`%localappdata%`), không đòi quyền Quản trị viên (Admin UAC).
+- **Quyền cài đặt:** Cài đặt độc lập vào thư mục người dùng, không đòi quyền Quản trị viên (Admin UAC).
 - **Chính sách dùng thử:** Tự động kích hoạt **24 giờ dùng thử đầy đủ tính năng** ngay lần đầu khởi chạy (không cần thanh toán hay xin key trước).
 
 ---
@@ -64,7 +64,7 @@ Vui lòng đọc kỹ các điều khoản sau trước khi cài đặt và sử
 
 ### 1. Quyền Sở Hữu Thương Hiệu & Tính Độc Lập
 - **Threads** và logo liên quan là nhãn hiệu thuộc sở hữu của **Meta Platforms, Inc.**
-- **Threads2Video (Auto Thờ rét city)** là một công cụ phần mềm tiện ích độc lập do bên thứ ba phát triển, **KHÔNG** thuộc quyền sở hữu, không được tài trợ, ủy quyền hay liên kết chính thức dưới bất kỳ hình thức nào với Meta Platforms, Inc. hoặc các công ty con.
+- **Auto Thờ rét city** là một công cụ phần mềm tiện ích độc lập do bên thứ ba phát triển, **KHÔNG** thuộc quyền sở hữu, không được tài trợ, ủy quyền hay liên kết chính thức dưới bất kỳ hình thức nào với Meta Platforms, Inc. hoặc các công ty con.
 
 ### 2. Bản Quyền Nội Dung & Trách Nhiệm Của Người Dùng
 - Phần mềm hoạt động thuần túy như một công cụ biên tập kỹ thuật số (Text-to-Speech & Video Rendering utility). Phần mềm **không tự ý cung cấp hoặc sở hữu quyền tác giả** đối với các nội dung bài viết, bình luận, hình ảnh đại diện, nhạc nền hoặc video được người dùng đưa vào.
