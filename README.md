@@ -1,6 +1,6 @@
 # 🎬 Auto Thờ rét city v1.5
 
-> **Công cụ hỗ trợ sáng tạo nội dung: Tự động chuyển đổi bài viết và bình luận Threads thành định dạng video ngắn 9:16 (TikTok, Reels, Shorts) kết hợp giọng đọc AI tiếng Việt và giao diện thẻ trực quan.**
+> **Công cụ hỗ trợ sáng tạo nội dung: Tự động chuyển đổi bài viết và bình luận Threads thành định dạng video ngắn 9:16 (TikTok, Reels, Shorts) kết hợp giọng đọc chuyển văn bản (Text-to-Speech) tiếng Việt và giao diện thẻ trực quan.**
 
 ---
 
@@ -36,7 +36,7 @@ Bấm vào link bên dưới để tải trực tiếp bản cài đặt chính 
 - Dán liên kết vào ô **Link bài Threads** trên ứng dụng.
 
 ### Bước 2: Tùy chỉnh giọng đọc & Hiển thị
-- Chọn **Giọng đọc AI** (Nam / Nữ tiếng Việt tự nhiên).
+- Chọn **Giọng đọc (TTS)** (Nam / Nữ tiếng Việt tự nhiên).
 - Chọn số lượng **Bình luận** cần đưa vào video.
 - (Tùy chọn) Chọn nhạc nền hoặc video nền của bạn.
 
@@ -71,9 +71,9 @@ Vui lòng đọc kỹ các điều khoản sau trước khi cài đặt và sử
 - **Người dùng cuối chịu hoàn toàn trách nhiệm pháp lý** đối với nội dung video xuất bản. Bạn có nghĩa vụ tự xác nhận mình có quyền sử dụng, quyền trích dẫn hợp pháp hoặc đã có sự đồng ý của chủ sở hữu nội dung (tác giả bài viết, chủ bản quyền âm nhạc/hình ảnh) trước khi đăng tải lên các nền tảng mạng xã hội.
 - Chúng tôi được miễn trừ toàn bộ trách nhiệm đối với bất kỳ khiếu nại, tranh chấp quyền tác giả, bản quyền âm nhạc hoặc khiếu nại từ bên thứ ba phát sinh từ việc sử dụng nội dung của người dùng.
 
-### 3. Quy Định Về Nhãn Dán AI & Kiếm Tiền Nền Tảng
-- Video tạo ra sử dụng công nghệ giọng nói tổng hợp AI. Người dùng có trách nhiệm tuân thủ quy định hiện hành của từng nền tảng phân phối (TikTok, YouTube, Facebook, Instagram) về việc **bật nhãn dán thông báo "Nội dung do AI tạo" (AI-generated content)** khi xuất bản.
-- Phần mềm **không đưa ra bất kỳ cam kết hay bảo đảm nào** về khả năng được phê duyệt kiếm tiền, lưu lượng tương tác, phân phối thuật toán hay kết quả thương mại trên bất kỳ nền tảng nào. Việc kiếm tiền phụ thuộc hoàn toàn vào chính sách riêng của từng nền tảng và giá trị biên tập/bình luận độc lập của người sáng tạo.
+### 3. Chính Sách Nền Tảng & Bật Kiếm Tiền
+- Phần mềm sử dụng các mô hình chuyển văn bản thành giọng đọc (Text-to-Speech) và kết xuất video tự động. Việc bật kiếm tiền phụ thuộc hoàn toàn vào chính sách nội dung của từng nền tảng (YouTube, TikTok, Facebook). Để đảm bảo điều kiện kiếm tiền, người sáng tạo nên bổ sung thêm góc nhìn, bình luận hoặc biên tập có giá trị riêng, tránh sản xuất hàng loạt nội dung trùng lặp.
+- Phần mềm **không đưa ra bất kỳ cam kết hay bảo đảm nào** về khả năng được phê duyệt kiếm tiền, lưu lượng tương tác, phân phối thuật toán hay kết quả thương mại trên bất kỳ nền tảng nào.
 
 ### 4. Tiêu Chuẩn Sử Dụng Hợp Pháp (Acceptable Use)
 - Nghiêm cấm tuyệt đối việc sử dụng phần mềm vào các mục đích: quấy rối, bôi nhọ, phỉ báng danh dự nhân phẩm cá nhân/tổ chức, phát tán tin tức sai sự thật, kích động bạo lực hoặc bất kỳ hành vi nào vi phạm pháp luật hiện hành của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam và luật pháp quốc tế.
