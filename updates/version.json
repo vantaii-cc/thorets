@@ -1,6 +1,6 @@
 {
   "version": "1.5.1",
-  "release_date": "2026-10-31T08:44:18.314879+00:00",
+  "release_date": "2026-10-31T08:53:20.878731+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
@@ -8,7 +8,11 @@
   "sha256": "9a526109361dca40c80cc50d4364a1a31810adfb1fe19b0cedd385e8ba486c7b",
   "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v1.5.1/Threads2Video_Setup_v1.5.1.exe",
   "changelog": [
-    "Bản cập nhật phiên bản 1.5.1"
+    "Chuyển toàn bộ thư mục xuất video, SFX và Meme về Downloads/threads_video (trực quan, không lưu ẩn trong AppData)",
+    "Tự động sao chép toàn bộ âm thanh SFX và ảnh meme mẫu khi người dùng nhấn nút Mở lần đầu",
+    "Tích hợp sẵn mô hình sea_g2p.bin (62.8 MB), khắc phục triệt để lỗi thiếu file khi chạy giọng đọc VieNeu-TTS",
+    "Bổ sung số Hotline / Zalo kích hoạt bản quyền chính thức: 0906034827 trong hộp thoại Bản quyền",
+    "Tối ưu hóa cơ chế khóa tiến trình đơn phiên (Single-Instance Mutex) và tăng độ mượt khi quét bài viết"
   ],
-  "signature": "11a7917e5d9d439e80816caed3306b299c2543b98fcff6296d2c264a6792604b26e3cc327f41c45cc2d765c8b62aacfca88df2776337db8802a83cb171ebc705"
+  "signature": "d05b7413530c354dde384e21505e699696be496e38caad7de579f49dfc68ce08a71ae337e1a213211d5b2fd188ed76730abfd324a34d1283cdfa25654bad0d0c"
 }
