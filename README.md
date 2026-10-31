@@ -8,9 +8,9 @@
 
 Bấm vào link bên dưới để tải trực tiếp bản cài đặt chính thức:
 
-👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT v1.5.0 (216 MB)](https://github.com/vantaii-cc/thorets/releases/download/v1.5.0/Threads2Video_Setup_v1.5.0.exe)**
+👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT v1.5.1 (216 MB)](https://github.com/vantaii-cc/thorets/releases/download/v1.5.1/Threads2Video_Setup_v1.5.1.exe)**
 
-- **Phiên bản:** v1.5.0 Turbo
+- **Phiên bản:** v1.5.1 Turbo
 - **Hệ điều hành:** Windows 10 / Windows 11 (64-bit)
 - **Quyền cài đặt:** Cài đặt độc lập vào thư mục người dùng, không đòi quyền Quản trị viên (Admin UAC).
 - **Chính sách dùng thử:** Tự động kích hoạt **24 giờ dùng thử đầy đủ tính năng** ngay lần đầu khởi chạy (không cần thanh toán hay xin key trước).
@@ -19,7 +19,7 @@ Bấm vào link bên dưới để tải trực tiếp bản cài đặt chính 
 
 ## 🛠 Hướng Dẫn Cài Đặt & Vượt Cảnh Báo Windows
 
-1. Sau khi tải về file **`Threads2Video_Setup_v1.5.0.exe`**, nhấp đúp chuột để mở.
+1. Sau khi tải về file **`Threads2Video_Setup_v1.5.1.exe`**, nhấp đúp chuột để mở.
 2. ⚠️ **Nếu Windows hiển thị cảnh báo Microsoft Defender SmartScreen (*"Windows protected your PC"*):**
    - Bấm vào dòng chữ: **`More info`** (hoặc *Thông tin thêm*).
    - Bấm tiếp nút: **`Run anyway`** (hoặc *Vẫn chạy*).
