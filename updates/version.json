@@ -1,6 +1,6 @@
 {
-  "version": "2.1.1",
-  "release_date": "2026-11-04T04:47:45.963656+00:00",
+  "version": "2.1.2",
+  "release_date": "2026-11-04T05:04:41.389438+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
@@ -8,7 +8,7 @@
   "sha256": "651c9fa4c8707757c42aade6e2a330e477edf7ab689ab5ffa18e32b33ba0b348",
   "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.1.1/Threads2Video_Setup_v2.1.1.exe",
   "changelog": [
-    "Bản cập nhật phiên bản 2.1.1"
+    "Bản cập nhật phiên bản 2.1.2"
   ],
-  "signature": "8bb235d3b333566057113dea965ddaf6888c6d36bdea58f1325ae99d120ed6d47b3aec8d6b69d1328a8ed458e3b6710767d62760cbf992d9736e1a02710a6d0c"
+  "signature": "8b4a42e34e5708795ce9c25accea0f9088ef023a5be5265b958f2391b846c5a57cf90a979678b267df735623424ddd87cee7118676d2f970cedec35d4729f908"
 }
