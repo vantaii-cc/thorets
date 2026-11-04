@@ -1,14 +1,17 @@
 {
-  "version": "2.1.1",
-  "release_date": "2026-11-04T04:47:45.963656+00:00",
+  "version": "2.2.0",
+  "release_date": "2026-11-04T12:47:39.442844+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143125636,
-  "sha256": "651c9fa4c8707757c42aade6e2a330e477edf7ab689ab5ffa18e32b33ba0b348",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.1.1/Threads2Video_Setup_v2.1.1.exe",
+  "size_bytes": 143174779,
+  "sha256": "ca31b2f3e01bb61c9621eecc37fdb83054e4f4f0cdcc14c0fdb143404db9a0d0",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.2.0/Threads2Video_Setup_v2.2.0.exe",
   "changelog": [
-    "Bản cập nhật phiên bản 2.1.1"
+    "Nâng cấp toàn diện kiến trúc bảo mật bản quyền (Node-Locked Ed25519).",
+    "Tối ưu hóa giao diện Admin Console quản lý khách hàng và danh sách đen.",
+    "Đồng bộ nhãn phiên bản v2.2.0 Turbo trên cửa sổ chính.",
+    "Cải thiện độ ổn định khi xuất video và đồng bộ thời gian."
   ],
-  "signature": "8bb235d3b333566057113dea965ddaf6888c6d36bdea58f1325ae99d120ed6d47b3aec8d6b69d1328a8ed458e3b6710767d62760cbf992d9736e1a02710a6d0c"
+  "signature": "c9f0257bc21ee32cd38c11f33d88a6c8720b88af5ef13c8f3d56c38c3c4ff9c2e6e2c53acde1cd033ff008139e67293534001f8796df26ebfcdea02c226a990c"
 }
