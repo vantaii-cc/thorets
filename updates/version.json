@@ -1,14 +1,14 @@
 {
-  "version": "2.0.0",
-  "release_date": "2026-11-03T09:17:03.376365+00:00",
+  "version": "2.1.0",
+  "release_date": "2026-11-03T20:51:52.940680+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 257576017,
-  "sha256": "41afdbde9970adee614e14ab1106f66358c4efcab34f4c9f606368bf120063f5",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.0.0/Threads2Video_Setup_v2.0.0.exe",
+  "size_bytes": 143114943,
+  "sha256": "b33222699b9318758bb5f8809a7b645bdb324f7ae52fa8630d12f53c00ae2f26",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.1.0/Threads2Video_Setup_v2.1.0.exe",
   "changelog": [
-    "Bản cập nhật phiên bản 2.0.0"
+    "Bản cập nhật phiên bản 2.1.0"
   ],
-  "signature": "b955eebc7672a58e387c5a307061c2a896375ac950688c3328111962709470f2890888e074c808c163cd01ac2e0c03c9e0206b3f5df3b7b93b3a500255722005"
+  "signature": "96ddfbbb2eb5e44a4d0c9bdbdcca2cf02be54aa6604b35c568b47de0f1477b4320286923fde2b58533400527d9e48149bb9289215e1e965ed0a8576a886b2b07"
 }
