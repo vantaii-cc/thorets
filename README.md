@@ -1,86 +1,60 @@
-# 🎬 Auto Thờ rét city v1.5
+# 🎬 Auto Thờ rét city
 
-> **Công cụ hỗ trợ sáng tạo nội dung: Tự động chuyển đổi bài viết và bình luận Threads thành định dạng video ngắn 9:16 (TikTok, Reels, Shorts) kết hợp giọng đọc chuyển văn bản (Text-to-Speech) tiếng Việt và giao diện thẻ trực quan.**
+> **Công cụ tự động chuyển đổi bài viết và bình luận Threads thành video ngắn định dạng 9:16 (TikTok, Facebook Reels, YouTube Shorts) với giọng đọc AI tiếng Việt tự nhiên và giao diện thẻ trực quan.**
 
 ---
 
 ## 📥 Tải Về Cài Đặt (Miễn Phí Dùng Thử 24 Giờ)
 
-Bấm vào link bên dưới để tải trực tiếp bản cài đặt chính thức:
+Bấm vào liên kết bên dưới để tải trực tiếp bản cài đặt chính thức:
 
-👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT v1.5.2 (216 MB)](https://github.com/vantaii-cc/thorets/releases/download/v1.5.2/Threads2Video_Setup_v1.5.2.exe)**
+👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT MỚI NHẤT (v2.1.0)](https://github.com/vantaii-cc/thorets/releases/download/v2.1.0/Threads2Video_Setup_v2.1.0.exe)**
 
-- **Phiên bản:** v1.5.2 Turbo
+- **Phiên bản:** v2.1.0 (Bản phát hành ổn định)
 - **Hệ điều hành:** Windows 10 / Windows 11 (64-bit)
-- **Quyền cài đặt:** Cài đặt độc lập vào thư mục người dùng, không đòi quyền Quản trị viên (Admin UAC).
-- **Chính sách dùng thử:** Tự động kích hoạt **24 giờ dùng thử đầy đủ tính năng** ngay lần đầu khởi chạy (không cần thanh toán hay xin key trước).
+- **Dung lượng:** ~136 MB (Đã tối ưu hóa siêu nhẹ)
+- **Dùng thử:** Tự động kích hoạt **24 giờ trải nghiệm miễn phí** đầy đủ tính năng ngay lần đầu khởi chạy.
 
 ---
 
-## 🛠 Hướng Dẫn Cài Đặt & Vượt Cảnh Báo Windows
+## ✨ Tính Năng Nổi Bật
 
-1. Sau khi tải về file **`Threads2Video_Setup_v1.5.2.exe`**, nhấp đúp chuột để mở.
-2. ⚠️ **Nếu Windows hiển thị cảnh báo Microsoft Defender SmartScreen (*"Windows protected your PC"*):**
-   - Bấm vào dòng chữ: **`More info`** (hoặc *Thông tin thêm*).
-   - Bấm tiếp nút: **`Run anyway`** (hoặc *Vẫn chạy*).
-   *(Lưu ý kỹ thuật: Đây là cảnh báo tiêu chuẩn của hệ điều hành Windows đối với các tệp thực thi mới phát hành chưa mua chứng chỉ số EV của Microsoft. Bộ cài đặt đã được quét sạch, an toàn 100% và không chứa phần mềm độc hại).*
-3. Nhấn **Tiếp tục** để hoàn tất cài đặt trong khoảng 10 giây.
+- **Tự động hóa hoàn toàn**: Chỉ cần dán link bài viết Threads, ứng dụng sẽ tự động cào nội dung, chụp ảnh thẻ, ghép giọng đọc và xuất video hoàn chỉnh.
+- **Giọng đọc AI tiếng Việt đa dạng**: Tích hợp các giọng đọc AI tự nhiên (Nam/Nữ, Bắc/Nam), tự động điều chỉnh tốc độ và phát âm chuẩn tiếng lóng, teencode.
+- **Xử lý bình luận thông minh**: Hỗ trợ chọn lọc bình luận nhiều tương tác, chuỗi bình luận cha - con đối đáp (phản dame) và bình luận bằng hình ảnh.
+- **Âm thanh & Hiệu ứng sinh động**: Tự động ghép nhạc nền, hiệu ứng sidechain ducking (giảm âm lượng nhạc khi có giọng đọc), chèn âm thanh SFX và meme vui nhộn theo ngữ cảnh.
+- **Định dạng chuẩn 9:16**: Tối ưu sẵn cho các nền tảng video ngắn phổ biến như TikTok, Reels và Shorts.
+- **Tự động cập nhật**: Ứng dụng tích hợp hệ thống tự động kiểm tra và nâng cấp phiên bản mới an toàn, nhanh chóng.
+
+---
+
+## 🛠 Hướng Dẫn Cài Đặt
+
+1. Tải về tệp **`Threads2Video_Setup_v2.1.0.exe`**.
+2. Nhấp đúp chuột để tiến hành cài đặt (chỉ mất khoảng 10 giây).
+3. ⚠️ *Nếu Windows hiển thị thông báo Microsoft Defender SmartScreen ("Windows protected your PC")*:
+   - Nhấn **More info** (hoặc *Thông tin thêm*).
+   - Nhấn **Run anyway** (hoặc *Vẫn chạy*).
+4. Mở ứng dụng và bắt đầu tạo video ngay.
 
 ---
 
 ## 📖 Hướng Dẫn Sử Dụng Nhanh (3 Bước)
 
-### Bước 1: Nhập liên kết bài viết
-- Mở ứng dụng Threads, tìm bài viết bạn muốn tạo video tóm tắt.
-- Bấm nút **Chia sẻ** -> chọn **Sao chép liên kết** (Định dạng: `https://www.threads.net/@user/post/...`).
-- Dán liên kết vào ô **Link bài Threads** trên ứng dụng.
-
-### Bước 2: Tùy chỉnh giọng đọc & Hiển thị
-- Chọn **Giọng đọc (TTS)** (Nam / Nữ tiếng Việt tự nhiên).
-- Chọn số lượng **Bình luận** cần đưa vào video.
-- (Tùy chọn) Chọn nhạc nền hoặc video nền của bạn.
-
-### Bước 3: Xuất video thành phẩm
-- Bấm nút **🚀 Bắt Đầu Tạo Video**.
-- Ứng dụng tự động tạo thẻ bài viết, lồng tiếng phụ đề và giảm âm lượng nhạc nền tự động (Ducking).
-- Khi hoàn tất, bấm **Mở Thư Mục** để nhận video định dạng 9:16 sẵn sàng xuất bản.
+1. **Dán link bài viết**: Mở Threads, sao chép liên kết bài viết cần làm video và dán vào ứng dụng.
+2. **Tùy chỉnh nội dung**: Chọn giọng đọc AI, số lượng bình luận muốn đưa vào video, nhạc nền hoặc hiệu ứng mong muốn.
+3. **Xuất video**: Bấm **🚀 Bắt Đầu Tạo Video**. Khi render hoàn tất, bấm **Mở Thư Mục** để nhận video thành phẩm.
 
 ---
 
-## 🔑 Kích Hoạt Bản Quyền (Sau Khi Hết 24 Giờ Dùng Thử)
+## 🔑 Hỗ Trợ & Kích Hoạt Bản Quyền
 
-Sau khi hết thời gian dùng thử 24 giờ, ứng dụng sẽ hiển thị hộp thoại **Quản Lý Bản Quyền**:
-
-1. Bấm nút **[Sao Chép]** tại ô **Mã máy (Machine ID)** (Ví dụ: `T2V-XXXX-XXXX-XXXX`).
-2. Gửi mã máy qua Hotline/Zalo hỗ trợ để nhận chuỗi mã kích hoạt (Key Token):
-   - 📞 **Hotline / Zalo hỗ trợ:** **`0906034827`**
-3. Dán chuỗi Key Token vào ô **Nhập mã bản quyền** -> Bấm **[Kích Hoạt Ngay]**.
+- Sau khi kết thúc 24 giờ dùng thử miễn phí, bạn có thể gửi **Mã máy (Machine ID)** hiển thị trên ứng dụng để nhận mã kích hoạt.
+- 📞 **Hotline / Zalo hỗ trợ kỹ thuật & đăng ký:** **`0906034827`**
 
 ---
 
-## ⚖️ Điều Khoản Pháp Lý & Tuyên Bố Miễn Trừ Trách Nhiệm (Legal Disclaimer)
+## ⚖️ Tuyên Bố Miễn Trừ Trách Nhiệm (Disclaimer)
 
-Vui lòng đọc kỹ các điều khoản sau trước khi cài đặt và sử dụng ứng dụng:
-
-### 1. Quyền Sở Hữu Thương Hiệu & Tính Độc Lập
-- **Threads** và logo liên quan là nhãn hiệu thuộc sở hữu của **Meta Platforms, Inc.**
-- **Auto Thờ rét city** là một công cụ phần mềm tiện ích độc lập do bên thứ ba phát triển, **KHÔNG** thuộc quyền sở hữu, không được tài trợ, ủy quyền hay liên kết chính thức dưới bất kỳ hình thức nào với Meta Platforms, Inc. hoặc các công ty con.
-
-### 2. Bản Quyền Nội Dung & Trách Nhiệm Của Người Dùng
-- Phần mềm hoạt động thuần túy như một công cụ biên tập kỹ thuật số (Text-to-Speech & Video Rendering utility). Phần mềm **không tự ý cung cấp hoặc sở hữu quyền tác giả** đối với các nội dung bài viết, bình luận, hình ảnh đại diện, nhạc nền hoặc video được người dùng đưa vào.
-- **Người dùng cuối chịu hoàn toàn trách nhiệm pháp lý** đối với nội dung video xuất bản. Bạn có nghĩa vụ tự xác nhận mình có quyền sử dụng, quyền trích dẫn hợp pháp hoặc đã có sự đồng ý của chủ sở hữu nội dung (tác giả bài viết, chủ bản quyền âm nhạc/hình ảnh) trước khi đăng tải lên các nền tảng mạng xã hội.
-- Chúng tôi được miễn trừ toàn bộ trách nhiệm đối với bất kỳ khiếu nại, tranh chấp quyền tác giả, bản quyền âm nhạc hoặc khiếu nại từ bên thứ ba phát sinh từ việc sử dụng nội dung của người dùng.
-
-### 3. Chính Sách Nền Tảng & Bật Kiếm Tiền
-- Phần mềm sử dụng các mô hình chuyển văn bản thành giọng đọc (Text-to-Speech) và kết xuất video tự động. Việc bật kiếm tiền phụ thuộc hoàn toàn vào chính sách nội dung của từng nền tảng (YouTube, TikTok, Facebook). Để đảm bảo điều kiện kiếm tiền, người sáng tạo nên bổ sung thêm góc nhìn, bình luận hoặc biên tập có giá trị riêng, tránh sản xuất hàng loạt nội dung trùng lặp.
-- Phần mềm **không đưa ra bất kỳ cam kết hay bảo đảm nào** về khả năng được phê duyệt kiếm tiền, lưu lượng tương tác, phân phối thuật toán hay kết quả thương mại trên bất kỳ nền tảng nào.
-
-### 4. Tiêu Chuẩn Sử Dụng Hợp Pháp (Acceptable Use)
-- Nghiêm cấm tuyệt đối việc sử dụng phần mềm vào các mục đích: quấy rối, bôi nhọ, phỉ báng danh dự nhân phẩm cá nhân/tổ chức, phát tán tin tức sai sự thật, kích động bạo lực hoặc bất kỳ hành vi nào vi phạm pháp luật hiện hành của nước Cộng hòa Xã hội Chủ nghĩa Việt Nam và luật pháp quốc tế.
-
----
-
-## 📞 Liên Hệ & Hỗ Trợ Kỹ Thuật
-
-- **Hotline / Zalo hỗ trợ khách hàng:** `0906034827`
-- **Cơ chế cập nhật:** Ứng dụng tích hợp hệ thống tự động kiểm tra chữ ký số Ed25519 và cập nhật phiên bản mới trực tiếp, đảm bảo an toàn và bảo mật cho thiết bị người dùng.
+- **Threads** là nhãn hiệu thuộc sở hữu của **Meta Platforms, Inc.** Phần mềm này là công cụ tiện ích độc lập của bên thứ ba, không thuộc quyền sở hữu, không được tài trợ hoặc liên kết chính thức với Meta Platforms, Inc.
+- Phần mềm hoạt động như một công cụ biên tập video kỹ thuật số. Người dùng tự chịu trách nhiệm về nội dung, bản quyền hình ảnh, âm thanh và bài viết khi xuất bản lên các mạng xã hội.
