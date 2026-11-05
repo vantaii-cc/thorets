@@ -1,6 +1,6 @@
 {
   "version": "2.2.1",
-  "release_date": "2026-11-05T19:58:50.139794+00:00",
+  "release_date": "2026-11-05T20:14:47.851327+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
@@ -8,10 +8,10 @@
   "sha256": "fd912823b78203b8a954cc265ee2a10bbc330e1e40ec019b3bfbe118e5c8aff4",
   "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.2.1/Threads2Video_Setup_v2.2.1.exe",
   "changelog": [
-    "Tá»‘i Æ°u hÃ³a toÃ n diá»‡n cÃ´ng cá»¥ cÃ o vÃ  táº¡o video hÃ ng loáº¡t (Batch Processing).",
-    "TÃ¡i táº¡o dá»¯ liá»‡u tÃ¹y biáº¿n bÃ¬nh luáº­n khÃ´ng máº¥t mÃ¡t (Zero-loss cache rehydration).",
-    "KhÃ¡ng lá»—i khÃ³a tá»‡p Antivirus Oplock (WinError 32) vá»›i cÆ¡ cháº¿ tá»± Ä‘á»™ng thá»­ láº¡i.",
-    "TÃ¡i sá»­ dá»¥ng bá»™ nhá»› báº£ng hÃ ng Ä‘á»£i vÃ  tá»± Ä‘á»™ng lÆ°u/khÃ´i phá»¥c tiáº¿n trÃ¬nh lÃ m viá»‡c."
+    "Tối ưu hóa toàn diện công cụ cào và tạo video hàng loạt (Batch Processing).",
+    "Tái tạo dữ liệu tùy biến bình luận không mất mát (Zero-loss cache rehydration).",
+    "Kháng lỗi khóa tệp Antivirus Oplock (WinError 32) với cơ chế tự động thử lại.",
+    "Tái sử dụng bộ nhớ bảng hàng đợi và tự động lưu/khôi phục tiến trình làm việc."
   ],
-  "signature": "5a67458dac853244fd940dbc80acb270e2321f71745e90359134d852de1de54b68686776c7a5ddea846dcd1c5c845e91487749d2149d7eb93d6b70ca0fce7909"
+  "signature": "9f3faa42a71b815b293fcfc9a9f89cbdbfe9e64a2c0a2de4685787a8d99e7f9ca89a2232261dc6d50f9eafe00f2376a027890063f28e402edf321384b905e102"
 }
