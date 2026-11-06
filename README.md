@@ -32,10 +32,7 @@ Bấm vào liên kết bên dưới để tải trực tiếp bản cài đặt 
 
 1. Tải về tệp **`Threads2Video_Setup_v2.1.0.exe`**.
 2. Nhấp đúp chuột để tiến hành cài đặt (chỉ mất khoảng 10 giây).
-3. ⚠️ *Nếu Windows hiển thị thông báo Microsoft Defender SmartScreen ("Windows protected your PC")*:
-   - Nhấn **More info** (hoặc *Thông tin thêm*).
-   - Nhấn **Run anyway** (hoặc *Vẫn chạy*).
-4. Mở ứng dụng và bắt đầu tạo video ngay.
+3. Mở ứng dụng và bắt đầu tạo video ngay.
 
 ---
 
