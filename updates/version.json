@@ -1,6 +1,6 @@
 {
   "version": "2.2.1",
-  "release_date": "2026-11-05T20:14:47.851327+00:00",
+  "release_date": "2026-11-06T02:05:10.284842+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
@@ -9,9 +9,9 @@
   "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.2.1/Threads2Video_Setup_v2.2.1.exe",
   "changelog": [
     "Tối ưu hóa toàn diện công cụ cào và tạo video hàng loạt (Batch Processing).",
-    "Tái tạo dữ liệu tùy biến bình luận không mất mát (Zero-loss cache rehydration).",
+    "Tự động chuyển chế độ khách và dọn phiên khi cookie Threads hết hạn.",
     "Kháng lỗi khóa tệp Antivirus Oplock (WinError 32) với cơ chế tự động thử lại.",
-    "Tái sử dụng bộ nhớ bảng hàng đợi và tự động lưu/khôi phục tiến trình làm việc."
+    "Bổ sung bộ lọc bình luận dưới 10 tim và bảo toàn bình luận phản dame."
   ],
-  "signature": "9f3faa42a71b815b293fcfc9a9f89cbdbfe9e64a2c0a2de4685787a8d99e7f9ca89a2232261dc6d50f9eafe00f2376a027890063f28e402edf321384b905e102"
+  "signature": "e79d5a80986315b3c7063154d68722102feb0d2c8b726b6dfa1782dff65af6b9f05f7494c454e04b825b247849c53dcedf698520d21037473d22082ac09d6400"
 }
