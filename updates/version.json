@@ -1,17 +1,18 @@
 {
-  "version": "2.2.1",
-  "release_date": "2026-11-06T02:05:10.284842+00:00",
+  "version": "2.3.0",
+  "release_date": "2026-11-06T08:05:29.312662+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143349502,
-  "sha256": "fd912823b78203b8a954cc265ee2a10bbc330e1e40ec019b3bfbe118e5c8aff4",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.2.1/Threads2Video_Setup_v2.2.1.exe",
+  "size_bytes": 143444004,
+  "sha256": "dd44f55e1b46088a2b3354657dd43f38700dca47db116653d42b05e83ff685a5",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.0/Threads2Video_Setup_v2.3.0.exe",
   "changelog": [
-    "Tối ưu hóa toàn diện công cụ cào và tạo video hàng loạt (Batch Processing).",
-    "Tự động chuyển chế độ khách và dọn phiên khi cookie Threads hết hạn.",
-    "Kháng lỗi khóa tệp Antivirus Oplock (WinError 32) với cơ chế tự động thử lại.",
-    "Bổ sung bộ lọc bình luận dưới 10 tim và bảo toàn bình luận phản dame."
+    "Bổ sung chức năng gán Giọng đọc riêng (Custom Voice) độc lập cho OP và từng bình luận (hỗ trợ Edge, VieNeu, CapCut).",
+    "Tối ưu hóa giao diện cặp bình luận Phản Dame (tô màu theo cặp, xếp theo cặp, tự động chọn đôi).",
+    "Mở rộng độ rộng cột tác giả lên 240px, khắc phục hiện tượng ẩn dấu ba chấm.",
+    "Đồng bộ hóa âm thanh thẻ ảnh và xử lý tách câu nhiều đoạn (multi-chunk) chính xác tuyệt đối.",
+    "Tích hợp Thỏa thuận Điều khoản & Chính sách Bảo mật vào trình cài đặt Windows."
   ],
-  "signature": "e79d5a80986315b3c7063154d68722102feb0d2c8b726b6dfa1782dff65af6b9f05f7494c454e04b825b247849c53dcedf698520d21037473d22082ac09d6400"
+  "signature": "c3b192af467beae33da39446ccef0e503032adcf44633d0368512f6d10d517a99bd41eac31883aef3c2bb9be917d7dd57e83acbcd6b73a3ee504e425f47a4e07"
 }
