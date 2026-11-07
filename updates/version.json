@@ -1,12 +1,12 @@
 {
-  "version": "2.3.0",
-  "release_date": "2026-11-06T08:05:29.312662+00:00",
+  "version": "2.3.1",
+  "release_date": "2026-11-06T18:04:03.636497+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143444004,
-  "sha256": "dd44f55e1b46088a2b3354657dd43f38700dca47db116653d42b05e83ff685a5",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.0/Threads2Video_Setup_v2.3.0.exe",
+  "size_bytes": 143492377,
+  "sha256": "118fa3815cca97dd4b69c8057ebc76aeb9490b565e5ac2b45353d2d6cf523b84",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.1/Threads2Video_Setup_v2.3.1.exe",
   "changelog": [
     "Bổ sung chức năng gán Giọng đọc riêng (Custom Voice) độc lập cho OP và từng bình luận (hỗ trợ Edge, VieNeu, CapCut).",
     "Tối ưu hóa giao diện cặp bình luận Phản Dame (tô màu theo cặp, xếp theo cặp, tự động chọn đôi).",
@@ -14,5 +14,5 @@
     "Đồng bộ hóa âm thanh thẻ ảnh và xử lý tách câu nhiều đoạn (multi-chunk) chính xác tuyệt đối.",
     "Tích hợp Thỏa thuận Điều khoản & Chính sách Bảo mật vào trình cài đặt Windows."
   ],
-  "signature": "c3b192af467beae33da39446ccef0e503032adcf44633d0368512f6d10d517a99bd41eac31883aef3c2bb9be917d7dd57e83acbcd6b73a3ee504e425f47a4e07"
+  "signature": "96377828773faca766df11bfc93ae41d56e81cc9675d47e1d4b53f0f500081ad54770a94ba452ace45e718183c05797eaee5c23d3d2ee40f756224deb4242003"
 }
