@@ -1,18 +1,17 @@
 {
-  "version": "2.3.1",
-  "release_date": "2026-11-06T18:04:03.636497+00:00",
+  "version": "2.3.2",
+  "release_date": "2026-11-07T05:58:47.481419+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143492377,
-  "sha256": "118fa3815cca97dd4b69c8057ebc76aeb9490b565e5ac2b45353d2d6cf523b84",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.1/Threads2Video_Setup_v2.3.1.exe",
+  "size_bytes": 143507700,
+  "sha256": "611f58be33bce2f69e68dc41e80c168140393ca5b9bb17f23d4e0608781e3156",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.2/Threads2Video_Setup_v2.3.2.exe",
   "changelog": [
-    "Bổ sung chức năng gán Giọng đọc riêng (Custom Voice) độc lập cho OP và từng bình luận (hỗ trợ Edge, VieNeu, CapCut).",
-    "Tối ưu hóa giao diện cặp bình luận Phản Dame (tô màu theo cặp, xếp theo cặp, tự động chọn đôi).",
-    "Mở rộng độ rộng cột tác giả lên 240px, khắc phục hiện tượng ẩn dấu ba chấm.",
-    "Đồng bộ hóa âm thanh thẻ ảnh và xử lý tách câu nhiều đoạn (multi-chunk) chính xác tuyệt đối.",
-    "Tích hợp Thỏa thuận Điều khoản & Chính sách Bảo mật vào trình cài đặt Windows."
+    "Khắc phục triệt để lỗi can thiệp hàm kiểm tra bản quyền (_check_license_unlocked) khi tạo video.",
+    "Tự động chữa lành sai lệch đồng hồ hệ thống (Silent Clock Auto-Healing) qua đối soát Internet Time HTTPS, loại bỏ cảnh báo sai về tua ngược thời gian.",
+    "Chuẩn hóa định dạng Machine ID 16-hex (T2V-XXXX-XXXX-XXXX-XXXX) bảo mật tối đa.",
+    "Nâng cấp bộ công cụ Admin bản quyền chuẩn SaaS: tìm kiếm độ trễ thấp, tự làm sạch Machine ID khi dán, reset trạng thái đồng hồ khi bỏ chặn, sao lưu và khôi phục CSDL JSON."
   ],
-  "signature": "96377828773faca766df11bfc93ae41d56e81cc9675d47e1d4b53f0f500081ad54770a94ba452ace45e718183c05797eaee5c23d3d2ee40f756224deb4242003"
+  "signature": "86bf4b1dfa247117f71a73e8228f73d06e70fd01f058640dc1c963ecf38b4f2999d6224b2979c88074cf567df5c2a7e461e7d6cb19af2f095831a653d3da7007"
 }
