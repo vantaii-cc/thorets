@@ -1,17 +1,18 @@
 {
-  "version": "2.3.2",
-  "release_date": "2026-11-07T05:58:47.481419+00:00",
+  "version": "2.3.4",
+  "release_date": "2026-11-07T13:35:42.566514+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143507700,
-  "sha256": "611f58be33bce2f69e68dc41e80c168140393ca5b9bb17f23d4e0608781e3156",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.2/Threads2Video_Setup_v2.3.2.exe",
+  "size_bytes": 143598240,
+  "sha256": "911f4c05d44b10db0674307066b70046a54fab1638d5966ca60ffbc741e17cd2",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.4/Threads2Video_Setup_v2.3.4.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi can thiệp hàm kiểm tra bản quyền (_check_license_unlocked) khi tạo video.",
-    "Tự động chữa lành sai lệch đồng hồ hệ thống (Silent Clock Auto-Healing) qua đối soát Internet Time HTTPS, loại bỏ cảnh báo sai về tua ngược thời gian.",
-    "Chuẩn hóa định dạng Machine ID 16-hex (T2V-XXXX-XXXX-XXXX-XXXX) bảo mật tối đa.",
-    "Nâng cấp bộ công cụ Admin bản quyền chuẩn SaaS: tìm kiếm độ trễ thấp, tự làm sạch Machine ID khi dán, reset trạng thái đồng hồ khi bỏ chặn, sao lưu và khôi phục CSDL JSON."
+    "Hỗ trợ xuất bản thảo CapCut Desktop PC 9.x+ và JianYing Pro: tương thích hoàn toàn cấu trúc Multi-Timeline mới, tự động phát hiện thư mục lưu bản thảo tùy chỉnh (currentCustomDraftPath).",
+    "Tối ưu bảng chọn bình luận (< 100ms), cuộn mượt mà bảo vệ con lăn chuột (Wheel Guard) chống nhảy giá trị ngoài ý muốn.",
+    "Nâng cấp bộ chẩn đoán lỗi trong Cài đặt: tự động đóng gói Full ZIP Bundle kèm logs; kiểm tra hệ thống ngầm qua QThread chống đơ giao diện; hỗ trợ Windows 11 24H2+.",
+    "Nhận diện thông minh biểu tượng cảm xúc ASCII (:), :)), :))), =))), :v, ^^...) đọc thành 'mặt cười', bảo toàn ký tự số +1.",
+    "Cô lập âm thanh video meme/SFX ngắt âm chuẩn xác trước câu thoại tiếp theo; đảm bảo tính đồng nhất giọng đọc cho từng tác giả."
   ],
-  "signature": "86bf4b1dfa247117f71a73e8228f73d06e70fd01f058640dc1c963ecf38b4f2999d6224b2979c88074cf567df5c2a7e461e7d6cb19af2f095831a653d3da7007"
+  "signature": "085037475deeadf68a1bafad184bc49e70f53af57dffece32cd98b7ff8a467ccad7361cef33b5458a58df8ae474a454ec11fcc4e069cd5973123cbc38554e503"
 }
