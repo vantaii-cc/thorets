@@ -1,17 +1,17 @@
 {
-  "version": "2.4.1",
-  "release_date": "2026-11-08T13:37:59.023079+00:00",
+  "version": "2.4.5",
+  "release_date": "2026-11-08T19:31:02.293452+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143690070,
-  "sha256": "3c88185957795fa5df7175a8b0c2953fc9519798dfff3285f3510bb15bf5a69d",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.1/Threads2Video_Setup_v2.4.1.exe",
+  "size_bytes": 143760387,
+  "sha256": "8db3e37e37db92cab255a3530d596189887534dc3ada88d4be64d3a8cd46afb8",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.5/Threads2Video_Setup_v2.4.5.exe",
   "changelog": [
-    "Gia cố bảo mật sâu đa tầng: Nâng cấp DPAPI V2 với Machine ID dynamic entropy cho khóa Gemini API và Cookie Threads; chặn triệt để Path Traversal (CWE-22) khi tải bản cập nhật và chặn SSRF tại Batch Processing.",
-    "Nâng cấp xác thực Threads: Khắc phục lỗi đóng sớm trình duyệt khi đăng nhập qua luồng 2FA/OTP hoặc SSO; tích hợp cơ chế Live Session Ping kiểm tra cookie sống trực tiếp với máy chủ Meta.",
-    "Tối ưu hóa chuyển đổi TTS Engine: Tự động reset và đồng bộ chính xác danh sách giọng đọc mặc định khi thay đổi công cụ đọc (VieNeu / Edge / CapCut), tránh lưu trạng thái bất định.",
-    "Cải tiến giao diện & trải nghiệm người dùng: Bổ sung nút 'Kiểm tra' kết nối Cookie, tính năng 'Hướng dẫn lấy Cookie 1-Click' qua Bookmarklet và cảnh báo thời gian thực khi chuyển chế độ khách."
+    "Tích hợp kênh hỗ trợ Zalo trực quan: Bổ sung nhãn chỉ dẫn và nút 'Hỗ trợ' ở góc thanh Tab, nhấp chuột mở ngay kênh Zalo hỗ trợ kỹ thuật 24/7.",
+    "Đột phá giao diện bảng bình luận: Thiết kế compact siêu nét, tối ưu cột chọn 28px với biểu tượng SVG chuẩn UX, khắc phục triệt để khoảng trắng thừa và lỗi cụm phản dame.",
+    "Phân tách độc lập SFX chuyển câu & Meme: Hỗ trợ âm thanh phản ứng MP3 độc lập, đồng bộ chính xác timing và giữ nguyên tên file gốc trên timeline CapCut PC / JianYing Pro.",
+    "Gia cố tiến trình & độ ổn định: Tích hợp Windows Job Object chống tiến trình mồ côi khi tắt ứng dụng, sửa lỗi nút thu gọn hàng loạt và kiểm thử hồi quy 360+ tests."
   ],
-  "signature": "44412205ae44859a5a6a7fa32c49940a80cb23b6e78239fb8d3241306fe4edbf9e976b6d4c648536bd6905eef5357c8da3233e0913fdc4ac4eea84fac4fcb90a"
+  "signature": "310f9888c6c955269576be385e7d19946d855a99e95d4a8f28a893dc4490a44967bcc7298b059a1959a5e5fadd66786848ae7c24339d4f48860f8fb8ed811008"
 }

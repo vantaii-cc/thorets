@@ -8,9 +8,9 @@
 
 Bấm vào liên kết bên dưới để tải trực tiếp bản cài đặt chính thức:
 
-👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT MỚI NHẤT (v2.4.1)](https://github.com/vantaii-cc/thorets/releases/download/v2.4.1/Threads2Video_Setup_v2.4.1.exe)**
+👉 **[⬇️ TẢI XUỐNG BẢN CÀI ĐẶT MỚI NHẤT (v2.4.5)](https://github.com/vantaii-cc/thorets/releases/download/v2.4.5/Threads2Video_Setup_v2.4.5.exe)**
 
-- **Phiên bản:** v2.4.1 (Bản phát hành chính thức mới nhất)
+- **Phiên bản:** v2.4.5 (Bản phát hành chính thức mới nhất)
 - **Hệ điều hành:** Windows 10 / Windows 11 (64-bit)
 - **Dung lượng:** ~137 MB (Đã tối ưu hóa C++ siêu nhẹ)
 - **Dùng thử:** Tự động kích hoạt **24 giờ trải nghiệm miễn phí** đầy đủ tính năng ngay lần đầu khởi chạy.
@@ -32,7 +32,7 @@ Bấm vào liên kết bên dưới để tải trực tiếp bản cài đặt 
 
 ## 🛠 Hướng Dẫn Cài Đặt
 
-1. Tải về tệp **`Threads2Video_Setup_v2.4.1.exe`**.
+1. Tải về tệp **`Threads2Video_Setup_v2.4.5.exe`**.
 2. Nhấp đúp chuột để tiến hành cài đặt (chỉ mất khoảng 10 giây).
 3. ⚠️ *Nếu Windows hiển thị thông báo Microsoft Defender SmartScreen ("Windows protected your PC")*:
    - Nhấn **More info** (hoặc *Thông tin thêm*).
