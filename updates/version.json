@@ -1,18 +1,18 @@
 {
-  "version": "2.3.4",
-  "release_date": "2026-11-07T13:35:42.566514+00:00",
+  "version": "2.4.0",
+  "release_date": "2026-11-08T07:19:54.323405+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143598240,
-  "sha256": "911f4c05d44b10db0674307066b70046a54fab1638d5966ca60ffbc741e17cd2",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.3.4/Threads2Video_Setup_v2.3.4.exe",
+  "size_bytes": 143648653,
+  "sha256": "d514825aa63b4020024b559cf9e011085da993fae7746c9ca19d7a6809726a20",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.0/Threads2Video_Setup_v2.4.0.exe",
   "changelog": [
-    "Hỗ trợ xuất bản thảo CapCut Desktop PC 9.x+ và JianYing Pro: tương thích hoàn toàn cấu trúc Multi-Timeline mới, tự động phát hiện thư mục lưu bản thảo tùy chỉnh (currentCustomDraftPath).",
-    "Tối ưu bảng chọn bình luận (< 100ms), cuộn mượt mà bảo vệ con lăn chuột (Wheel Guard) chống nhảy giá trị ngoài ý muốn.",
-    "Nâng cấp bộ chẩn đoán lỗi trong Cài đặt: tự động đóng gói Full ZIP Bundle kèm logs; kiểm tra hệ thống ngầm qua QThread chống đơ giao diện; hỗ trợ Windows 11 24H2+.",
-    "Nhận diện thông minh biểu tượng cảm xúc ASCII (:), :)), :))), =))), :v, ^^...) đọc thành 'mặt cười', bảo toàn ký tự số +1.",
-    "Cô lập âm thanh video meme/SFX ngắt âm chuẩn xác trước câu thoại tiếp theo; đảm bảo tính đồng nhất giọng đọc cho từng tác giả."
+    "Gia cố toàn diện độ ổn định hệ thống (Zero Hang, Zero Deadlock): Triệt tiêu nguy cơ treo FFmpeg khi log quá tải bằng cơ chế DEVNULL và dọn sạch cây tiến trình con qua Process Tree Kill.",
+    "Tối ưu hóa lưu trữ và đồng bộ cấu hình: Tự động lưu và đồng bộ 2 chiều các cài đặt giữa Tab Đơn lẻ và Tab Hàng loạt; cơ chế retry 5 lần chống nghẽn khóa file của Windows Defender.",
+    "Nâng cấp Batch Scraper Engine: Tự động tái chế phiên Chromium theo phân đoạn chu kỳ chống tràn RAM; cập nhật trạng thái hủy cào đồng bộ cho toàn bộ hàng đợi.",
+    "Cải tiến trải nghiệm và vòng đời GUI: Triệt tiêu nguy cơ đệ quy sự kiện khi chọn bình luận phản dame; cơ chế thoát an toàn (Safe Force Quit) bảo vệ tiến trình khỏi lỗi sập Qt C++.",
+    "Gia cố bộ máy giọng đọc TTS CapCut & VieNeu: Tự động thử lại khi gián đoạn mạng với backoff/jitter thông minh; kiểm tra tính hợp lệ âm thanh mảng số chống phát sinh tạp âm."
   ],
-  "signature": "085037475deeadf68a1bafad184bc49e70f53af57dffece32cd98b7ff8a467ccad7361cef33b5458a58df8ae474a454ec11fcc4e069cd5973123cbc38554e503"
+  "signature": "58840b9cac0b38c64a05231b718008915b4dbd5c87ee729d089dd92296a45f12bc5871ff709144d953bc3010c666cf405d3146cede0a35e6fc8d866b9eecca01"
 }
