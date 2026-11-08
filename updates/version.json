@@ -1,18 +1,17 @@
 {
-  "version": "2.4.0",
-  "release_date": "2026-11-08T07:19:54.323405+00:00",
+  "version": "2.4.1",
+  "release_date": "2026-11-08T13:37:59.023079+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143648653,
-  "sha256": "d514825aa63b4020024b559cf9e011085da993fae7746c9ca19d7a6809726a20",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.0/Threads2Video_Setup_v2.4.0.exe",
+  "size_bytes": 143690070,
+  "sha256": "3c88185957795fa5df7175a8b0c2953fc9519798dfff3285f3510bb15bf5a69d",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.1/Threads2Video_Setup_v2.4.1.exe",
   "changelog": [
-    "Gia cố toàn diện độ ổn định hệ thống (Zero Hang, Zero Deadlock): Triệt tiêu nguy cơ treo FFmpeg khi log quá tải bằng cơ chế DEVNULL và dọn sạch cây tiến trình con qua Process Tree Kill.",
-    "Tối ưu hóa lưu trữ và đồng bộ cấu hình: Tự động lưu và đồng bộ 2 chiều các cài đặt giữa Tab Đơn lẻ và Tab Hàng loạt; cơ chế retry 5 lần chống nghẽn khóa file của Windows Defender.",
-    "Nâng cấp Batch Scraper Engine: Tự động tái chế phiên Chromium theo phân đoạn chu kỳ chống tràn RAM; cập nhật trạng thái hủy cào đồng bộ cho toàn bộ hàng đợi.",
-    "Cải tiến trải nghiệm và vòng đời GUI: Triệt tiêu nguy cơ đệ quy sự kiện khi chọn bình luận phản dame; cơ chế thoát an toàn (Safe Force Quit) bảo vệ tiến trình khỏi lỗi sập Qt C++.",
-    "Gia cố bộ máy giọng đọc TTS CapCut & VieNeu: Tự động thử lại khi gián đoạn mạng với backoff/jitter thông minh; kiểm tra tính hợp lệ âm thanh mảng số chống phát sinh tạp âm."
+    "Gia cố bảo mật sâu đa tầng: Nâng cấp DPAPI V2 với Machine ID dynamic entropy cho khóa Gemini API và Cookie Threads; chặn triệt để Path Traversal (CWE-22) khi tải bản cập nhật và chặn SSRF tại Batch Processing.",
+    "Nâng cấp xác thực Threads: Khắc phục lỗi đóng sớm trình duyệt khi đăng nhập qua luồng 2FA/OTP hoặc SSO; tích hợp cơ chế Live Session Ping kiểm tra cookie sống trực tiếp với máy chủ Meta.",
+    "Tối ưu hóa chuyển đổi TTS Engine: Tự động reset và đồng bộ chính xác danh sách giọng đọc mặc định khi thay đổi công cụ đọc (VieNeu / Edge / CapCut), tránh lưu trạng thái bất định.",
+    "Cải tiến giao diện & trải nghiệm người dùng: Bổ sung nút 'Kiểm tra' kết nối Cookie, tính năng 'Hướng dẫn lấy Cookie 1-Click' qua Bookmarklet và cảnh báo thời gian thực khi chuyển chế độ khách."
   ],
-  "signature": "58840b9cac0b38c64a05231b718008915b4dbd5c87ee729d089dd92296a45f12bc5871ff709144d953bc3010c666cf405d3146cede0a35e6fc8d866b9eecca01"
+  "signature": "44412205ae44859a5a6a7fa32c49940a80cb23b6e78239fb8d3241306fe4edbf9e976b6d4c648536bd6905eef5357c8da3233e0913fdc4ac4eea84fac4fcb90a"
 }
