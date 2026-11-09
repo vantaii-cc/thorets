@@ -86,6 +86,4 @@ Chữ ký số: Ed25519 (Verified)
 ---
 
 ### 📞 Kênh Hỗ Trợ & Kích Hoạt Bản Quyền
-
-* 💬 **Zalo hỗ trợ sáng tạo nội dung 24/7:** [**0777762532** (Bấm để chat Zalo)](https://zalo.me/0777762532)
 * 🔑 **Kích hoạt bản quyền:** Sau khi hết 24 giờ dùng thử, gửi **Mã máy (Machine ID)** hiển thị trên góc ứng dụng qua Zalo để nhận mã kích hoạt sử dụng lâu dài.
