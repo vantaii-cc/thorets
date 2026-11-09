@@ -1,17 +1,18 @@
 {
-  "version": "2.4.6",
-  "release_date": "2026-11-09T10:22:22.050905+00:00",
+  "version": "2.4.7",
+  "release_date": "2026-11-09T23:22:18.334145+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143769924,
-  "sha256": "78f5ad54a051672043efc0c4c3cceb386a536f0cce99d934550b0036a533880b",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.6/Threads2Video_Setup_v2.4.6.exe",
+  "size_bytes": 143917185,
+  "sha256": "a33dd68b1978475776f2d093ae08c647731afbac7b2b385f939fa7cc8507e59f",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.7/Threads2Video_Setup_v2.4.7.exe",
   "changelog": [
-    "Gia cố bảo mật bản quyền chuyên sâu 4 lớp: Khóa cứng trần hạn mức 30 video, chống can thiệp hooking cấp lớp, tích hợp rào chắn CapCut Gating độc lập cả trên giao diện và luồng ngầm.",
-    "Đồng bộ trạng thái trực quan: Tự động vô hiệu hóa và cập nhật tooltip cảnh báo rõ ràng cho các nút tác vụ chính khi bản quyền hoặc gói dùng thử hết hạn.",
-    "Phòng thủ toàn vẹn đồng hồ & Anchor: Ngăn chặn tua lùi thời gian khi thiếu dữ liệu trạng thái, yêu cầu kiểm thực giờ chuẩn Internet và tự phục hồi khi có mạng.",
-    "Tối ưu hóa hủy tiến trình hàng loạt: Xử lý mượt mà khi hủy tác vụ danh sách lớn (80+ mục), loại bỏ hoàn toàn hiện tượng nghẽn giao diện và rò rỉ bộ nhớ."
+    "Khắc phục triệt để lỗi gõ tiếng Việt (IME): Tự động commit chuỗi ký tự đang gõ vào văn bản khi bấm chuột ra ngoài, không bị mất dấu hay mất chữ.",
+    "Bộ quy tắc phát âm & viết tắt (quytac.txt): Chuẩn hóa 185 quy tắc chuyển đổi tiếng lóng và viết tắt Threads/TikTok cho AI đọc tự nhiên.",
+    "Tối ưu hóa bố cục thẻ (Cards): Nâng cấp hiển thị Phản Dame (+diff tim), phân cấp nhánh bình luận mượt mà và tách khối ảnh media độc lập.",
+    "Nâng cấp bộ dựng Meme & Filter Graph FFmpeg: Tự động căn vị trí meme tránh che khuất thẻ, bảo đảm kích thước chẵn pixel chống lỗi render.",
+    "Kiểm định thực tế quy mô lớn: Đã vượt qua kiểm thử tải liên tục trên 267 bài viết Threads thực tế (7,439 segments) với tỷ lệ hoàn thành 100% không phát sinh lỗi."
   ],
-  "signature": "aef743e2af52d49dbe29a0de0be28aae883413fae7a735492791851ba6629e25e5d4ab8fb3320560c5eef77589099e40148751d7994211e2e220a28215da7f02"
+  "signature": "438fd021a5b0598a468f6ed4a6f0b97e1d5875659333c39d07e08d64bcbfd75308e143c99bb73f0e8fd325bf2e07e83135e3dca419b76ebca897eb11b2a42904"
 }
