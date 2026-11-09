@@ -1,17 +1,17 @@
 {
-  "version": "2.4.5",
-  "release_date": "2026-11-08T19:31:02.293452+00:00",
+  "version": "2.4.6",
+  "release_date": "2026-11-09T10:22:22.050905+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143760387,
-  "sha256": "8db3e37e37db92cab255a3530d596189887534dc3ada88d4be64d3a8cd46afb8",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.5/Threads2Video_Setup_v2.4.5.exe",
+  "size_bytes": 143769924,
+  "sha256": "78f5ad54a051672043efc0c4c3cceb386a536f0cce99d934550b0036a533880b",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.6/Threads2Video_Setup_v2.4.6.exe",
   "changelog": [
-    "Tích hợp kênh hỗ trợ Zalo trực quan: Bổ sung nhãn chỉ dẫn và nút 'Hỗ trợ' ở góc thanh Tab, nhấp chuột mở ngay kênh Zalo hỗ trợ kỹ thuật 24/7.",
-    "Đột phá giao diện bảng bình luận: Thiết kế compact siêu nét, tối ưu cột chọn 28px với biểu tượng SVG chuẩn UX, khắc phục triệt để khoảng trắng thừa và lỗi cụm phản dame.",
-    "Phân tách độc lập SFX chuyển câu & Meme: Hỗ trợ âm thanh phản ứng MP3 độc lập, đồng bộ chính xác timing và giữ nguyên tên file gốc trên timeline CapCut PC / JianYing Pro.",
-    "Gia cố tiến trình & độ ổn định: Tích hợp Windows Job Object chống tiến trình mồ côi khi tắt ứng dụng, sửa lỗi nút thu gọn hàng loạt và kiểm thử hồi quy 360+ tests."
+    "Gia cố bảo mật bản quyền chuyên sâu 4 lớp: Khóa cứng trần hạn mức 30 video, chống can thiệp hooking cấp lớp, tích hợp rào chắn CapCut Gating độc lập cả trên giao diện và luồng ngầm.",
+    "Đồng bộ trạng thái trực quan: Tự động vô hiệu hóa và cập nhật tooltip cảnh báo rõ ràng cho các nút tác vụ chính khi bản quyền hoặc gói dùng thử hết hạn.",
+    "Phòng thủ toàn vẹn đồng hồ & Anchor: Ngăn chặn tua lùi thời gian khi thiếu dữ liệu trạng thái, yêu cầu kiểm thực giờ chuẩn Internet và tự phục hồi khi có mạng.",
+    "Tối ưu hóa hủy tiến trình hàng loạt: Xử lý mượt mà khi hủy tác vụ danh sách lớn (80+ mục), loại bỏ hoàn toàn hiện tượng nghẽn giao diện và rò rỉ bộ nhớ."
   ],
-  "signature": "310f9888c6c955269576be385e7d19946d855a99e95d4a8f28a893dc4490a44967bcc7298b059a1959a5e5fadd66786848ae7c24339d4f48860f8fb8ed811008"
+  "signature": "aef743e2af52d49dbe29a0de0be28aae883413fae7a735492791851ba6629e25e5d4ab8fb3320560c5eef77589099e40148751d7994211e2e220a28215da7f02"
 }

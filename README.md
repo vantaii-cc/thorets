@@ -1,6 +1,6 @@
-# 🎬 Thờ Rét City Studio (v2.4.5 Turbo)
+# 🎬 Thờ Rét City Studio (v2.4.6 Turbo)
 
-[![Version](https://img.shields.io/badge/Phiên_bản-v2.4.5_Turbo-007acc?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
+[![Version](https://img.shields.io/badge/Phiên_bản-v2.4.6_Turbo-007acc?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![Platform](https://img.shields.io/badge/Nền_tảng-Windows_10_|_11_x64-00b4d8?style=for-the-badge&logo=windows)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![License](https://img.shields.io/badge/Trải_nghiệm-Dùng_thử_miễn_phí-10b981?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![Security](https://img.shields.io/badge/Bảo_mật-Local--First_|_Zero_Telemetry-6366f1?style=for-the-badge)](https://github.com/vantaii-cc/thorets)
@@ -13,7 +13,7 @@
 
 Bấm vào liên kết bên dưới để tải trực tiếp gói cài đặt chính thức dành cho Windows:
 
-### 👉 **[⬇️ TẢI XUỐNG THỜ RÉT CITY STUDIO CHO WINDOWS (v2.4.5)](https://github.com/vantaii-cc/thorets/releases/download/v2.4.5/Threads2Video_Setup_v2.4.5.exe)**
+### 👉 **[⬇️ TẢI XUỐNG THỜ RÉT CITY STUDIO CHO WINDOWS (v2.4.6)](https://github.com/vantaii-cc/thorets/releases/download/v2.4.6/Threads2Video_Setup_v2.4.6.exe)**
 
 * ⚡ **Dung lượng:** ~137 MB (Biên dịch C++ độc lập, chạy mượt mà ngay trên máy tính)
 * 🕒 **Cài đặt siêu nhanh:** ~10 giây
@@ -71,8 +71,8 @@ Do đây là phần mềm mới phát hành và chưa tích lũy chứng chỉ d
 <summary><b>👉 Xem mã SHA-256 đối chiếu tính toàn vẹn (Checksum)</b></summary>
 
 ```text
-File: Threads2Video_Setup_v2.4.5.exe
-SHA256: 8db3e37e37db92cab255a3530d596189887534dc3ada88d4be64d3a8cd46afb8
+File: Threads2Video_Setup_v2.4.6.exe
+SHA256: 78f5ad54a051672043efc0c4c3cceb386a536f0cce99d934550b0036a533880b
 Chữ ký số: Ed25519 (Verified)
 ```
 *(Mã băm SHA-256 là dấu vân tay điện tử một chiều tiêu chuẩn quốc tế giúp bạn đối chiếu tính nguyên vẹn của tệp tải về, đảm bảo tệp sạch và không bị lỗi đường truyền).*
