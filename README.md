@@ -26,11 +26,6 @@ Bấm vào liên kết bên dưới để tải trực tiếp gói cài đặt c
 #### 1. Màn hình làm việc chính (Thiết lập nội dung & Giọng đọc AI)
 ![Giao diện chính](https://raw.githubusercontent.com/vantaii-cc/thorets/main/assets/preview_main.png)
 
-#### 2. Không gian biên tập nội dung thông minh (Hội thoại, Gắn giọng, SFX & Meme)
-![Bảng chọn nội dung](https://raw.githubusercontent.com/vantaii-cc/thorets/main/assets/preview_comment_dialog.png)
-
----
-
 ### ✨ Những Tính Năng Sáng Tạo Nổi Bật
 
 * **🚀 Biên tập nội dung nhanh chóng:** Tiếp nhận nội dung văn bản chia sẻ, hỗ trợ định dạng thẻ bài viết bắt mắt, tích hợp thuyết minh giọng đọc AI và xuất video mượt mà.
