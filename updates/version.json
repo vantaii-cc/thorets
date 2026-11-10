@@ -1,18 +1,20 @@
 {
-  "version": "2.5.0",
-  "release_date": "2026-11-10T17:56:22.394578+00:00",
+  "version": "2.5.1",
+  "release_date": "2026-11-10T23:31:46.557052+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144012973,
-  "sha256": "b818acf0107c721387c2393cbb425db417d88e4ce35b8a28f1d45eda1d3ca271",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.0/Threads2Video_Setup_v2.5.0.exe",
+  "size_bytes": 144071519,
+  "sha256": "2f85274e7973aaa2b415f133b2e0b583b211fcc3fb9c56903af8a8be451bebd2",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.1/Threads2Video_Setup_v2.5.1.exe",
   "changelog": [
-    "Tự động ghi nhớ và đồng bộ cấu hình Model giọng đọc AI (VieNeu, Edge, CapCut): Khắc phục triệt để tình trạng phải chọn lại model giọng mỗi khi mở ứng dụng.",
-    "Đồng bộ 2 chiều giọng OP: Giọng OP ở bảng chọn bình luận tự động đồng bộ thời gian thực với cửa sổ chính (mặc định Hoài My Edge), thay đổi ở bất cứ đâu đều tự động cập nhật.",
-    "Nâng cấp trải nghiệm nghe thử âm thanh bảng chọn bình luận: Tự động phát nghe thử ngay khi chọn Giọng đọc, SFX hoặc Meme; nút Nghe thử hỗ trợ nghe thử thông minh và dừng âm thanh linh hoạt.",
-    "Sửa lỗi UnboundLocalError tại bước tổng hợp âm thanh và ghép video khi dự án sử dụng các giọng đọc tùy biến (Mixed TTS Provider).",
-    "Tối ưu hóa hiệu năng render video và tăng cường độ ổn định tổng thể của hệ thống."
+    "Hỗ trợ kết hợp đồng thời nhiều hiệu ứng Meme: Tự do chọn và phối hợp nhiều hiệu ứng cùng lúc (Phóng to Zoom, Trượt lên Slide, Nảy lên Bounce, Mờ vào Fade In, Mờ ra Fade Out) mang lại trải nghiệm thị giác sống động và linh hoạt hơn.",
+    "Bổ sung tùy chọn Vị trí hiển thị Meme: Cho phép linh hoạt chọn vị trí đặt Meme (Dưới thẻ bài tránh che chữ, Chính giữa màn hình, Phía trên thẻ bài, Dưới cùng khung hình) ở cả chế độ tạo đơn và sản xuất hàng loạt.",
+    "Sửa lỗi âm thanh clip Meme khi xuất bản thảo CapCut Desktop: Đảm bảo toàn bộ âm thanh của Meme video và file âm thanh đi kèm giữ trọn vẹn 100% âm lượng gốc trên timeline CapCut.",
+    "Tối ưu hóa cơ chế nghe thử âm thanh bảng chọn bình luận: Tự động ngắt và giải phóng luồng nền khi chuyển đổi giọng đọc nhanh hoặc đóng bảng, giúp tiến trình tạo video tiếp nối mượt mà và liền mạch.",
+    "Đồng bộ 2 chiều giọng OP: Giọng OP ở bảng chọn bình luận tự động đồng bộ thời gian thực với cửa sổ chính (mặc định Hoài My Edge).",
+    "Tự động ghi nhớ và đồng bộ cấu hình Model giọng đọc AI (VieNeu, Edge, CapCut) trên toàn ứng dụng.",
+    "Nâng cấp quản lý vòng đời tài nguyên và tăng cường độ ổn định tổng thể của hệ thống."
   ],
-  "signature": "0af672c1229af42f54e9f34772b5dde46ff2677a2ca9b424b3e9188e786becefd57c292379a6a978700eb74b98814f93a545e5e16e190f9b224ceafcffc55307"
+  "signature": "f790ac99cb66f610825c1fa1c14ac47cfda445d055808c147d8bf041959573575aab8b84be10199e874111a40af5ca43f296b77f972e832d18db963a3900200c"
 }
