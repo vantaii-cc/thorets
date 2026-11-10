@@ -1,18 +1,18 @@
 {
-  "version": "2.4.8",
-  "release_date": "2026-11-10T03:52:31.160794+00:00",
+  "version": "2.4.9",
+  "release_date": "2026-11-10T14:11:40.112144+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143924105,
-  "sha256": "28e8b37d0bebf70404412addb3ea3e77c1360a099f2130b6ce2e9e8d5241d904",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.8/Threads2Video_Setup_v2.4.8.exe",
+  "size_bytes": 144006684,
+  "sha256": "f4f44587713f0b14ef9db07ea0d38d0f24bf8d86a8d8107a1433923b036d6813",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.9/Threads2Video_Setup_v2.4.9.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi tự động cập nhật: Loại bỏ xung đột Windows Job Object và giải phóng Mutex ứng dụng, đảm bảo bộ cài Inno Setup khởi chạy ngầm 100% mượt mà.",
-    "Nâng cấp cơ chế bàn giao cập nhật: Ứng dụng tự động đóng và khởi động lại phiên bản mới an toàn, không treo tiến trình hay mất kết nối.",
-    "Bộ từ điển phát âm & viết tắt (quytac.txt): Nâng cấp danh mục 794 quy tắc chuẩn hóa tiếng lóng và viết tắt mạng xã hội.",
-    "Tối ưu hóa bố cục thẻ (Cards): Nâng cấp hiển thị Phản Dame (+diff tim), phân cấp nhánh bình luận và khối media.",
-    "Tối ưu hóa hiệu năng render video: Tự động căn chỉnh Meme & SFX, đảm bảo kích thước chẵn pixel và không che khuất nội dung."
+    "Chuẩn hóa Unicode NFC toàn diện: Khắc phục triệt để lỗi phân rã ký tự có dấu, đảm bảo giọng đọc AI và văn bản trên thẻ hiển thị chính xác 100%.",
+    "Tối ưu hóa phân đoạn âm thanh - hình ảnh: Đồng bộ chính xác ranh giới câu giữa thẻ hiển thị và giọng đọc AI cho các bài viết dài nhiều đoạn.",
+    "Bộ quy tắc phát âm AI thông minh: Phân biệt chuẩn xác giữa từ viết tắt công nghệ (AI, BA...) với từ thuần Việt, ngăn chặn xung đột từ vựng.",
+    "Nâng cấp giao diện Bảng Biên Tập Bình Luận: Tối ưu hóa hiệu năng mở bảng và chọn checkbox siêu tốc (dưới 16ms), tự động lưu quy tắc phát âm AI và căn chỉnh danh mục chọn SFX / Giọng đọc mượt mà.",
+    "Tối ưu hóa hiệu năng render video và tăng cường độ ổn định tổng thể của hệ thống."
   ],
-  "signature": "0822016fe468ed26ae7bf333b90dffd51811e116f04725a702019c91d2ce30d8138f65abc80604440b0298eeb99dccf150d06cf5227583c33119758925c00d0d"
+  "signature": "8ba62f614216464fd5b054c8829d89df7e8eccb1cc02d6856589f64b76a3264211e0739542015b706949906de68f1f99b871e0e720e09a8d3c63b1f2e8a52509"
 }
