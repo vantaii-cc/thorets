@@ -1,6 +1,6 @@
-# 🎬 Thờ Rét City Studio (v2.5.0 Pro)
+# 🎬 Thờ Rét City Studio
 
-[![Version](https://img.shields.io/badge/Phiên_bản-v2.5.0_Pro-007acc?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
+[![Release](https://img.shields.io/github/v/release/vantaii-cc/thorets?label=Phiên_bản&style=for-the-badge&color=007acc)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![Platform](https://img.shields.io/badge/Nền_tảng-Windows_10_|_11_x64-00b4d8?style=for-the-badge&logo=windows)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![License](https://img.shields.io/badge/Trải_nghiệm-Dùng_thử_miễn_phí-10b981?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![Security](https://img.shields.io/badge/Bảo_mật-Local--First_|_Zero_Telemetry-6366f1?style=for-the-badge)](https://github.com/vantaii-cc/thorets)
@@ -11,22 +11,14 @@
 
 ### 📥 Tải Về Ứng Dụng (Trải Nghiệm Miễn Phí 24 Giờ)
 
-Bấm vào liên kết bên dưới để tải trực tiếp gói cài đặt chính thức dành cho Windows:
+Bấm vào liên kết bên dưới để tải gói cài đặt chính thức mới nhất dành cho Windows:
 
-### 👉 **[⬇️ TẢI XUỐNG THỜ RÉT CITY STUDIO CHO WINDOWS (v2.5.0)](https://github.com/vantaii-cc/thorets/releases/download/v2.5.0/Threads2Video_Setup_v2.5.0.exe)**
+### 👉 **[⬇️ TẢI XUỐNG THỜ RÉT CITY STUDIO (BẢN MỚI NHẤT)](https://github.com/vantaii-cc/thorets/releases/latest)**
 
 * ⚡ **Dung lượng:** ~137 MB (Biên dịch C++ độc lập, chạy mượt mà ngay trên máy tính)
 * 🕒 **Cài đặt siêu nhanh:** ~10 giây
 * 🎁 **Chính sách trải nghiệm:** Tự động kích hoạt **24 giờ dùng thử đầy đủ tính năng** ngay lần đầu mở ứng dụng.
-
----
-
-### 🌟 Điểm Mới Nổi Bật Trong Phiên Bản v2.5.0
-
-* **🧠 Ghi nhớ & Đồng bộ vĩnh viễn Model giọng nói:** Khắc phục triệt để tình trạng phải chọn lại model giọng khi khởi động lại ứng dụng. Tự động đồng bộ các lựa chọn giọng đọc và cấu hình âm thanh giữa chế độ Tạo 1 Video và Tạo hàng loạt.
-* **🔄 Đồng bộ 2 chiều giọng OP:** Giọng người đăng bài (OP) trong bảng chọn bình luận tự động đồng bộ thời gian thực với cửa sổ chính (mặc định Hoài My Edge), thay đổi ở bất cứ đâu đều được cập nhật tức thì.
-* **🎧 Nghe thử tức thì trực quan (Instant Preview):** Khi bạn bấm chọn bất kỳ Giọng đọc, SFX chuyển câu hoặc Meme nào trong danh sách, hệ thống sẽ tự động phát nghe thử ngay lập tức mà không cần thao tác thêm; nút Nghe thử hỗ trợ nghe thử thông minh và dừng âm thanh linh hoạt.
-* **🛡️ Tối ưu hóa tính ổn định & Bộ lọc FFmpeg:** Sửa lỗi biến môi trường cục bộ khi tổng hợp các giọng đọc kết hợp, đảm bảo quá trình render video diễn ra trơn tru và liên tục.
+* 📜 **Nhật ký cập nhật (Changelog):** Xem chi tiết tính năng mới của từng phiên bản tại mục [Releases](https://github.com/vantaii-cc/thorets/releases).
 
 ---
 
@@ -78,18 +70,9 @@ Do đây là phần mềm mới phát hành và chưa tích lũy chứng chỉ d
 
 ---
 
-### 🔒 Thông Tin Kiểm Tra Tệp Tin Phát Hành
+### 🔒 Xác Thực Toàn Vẹn & Chữ Ký Số
 
-<details>
-<summary><b>👉 Xem mã SHA-256 đối chiếu tính toàn vẹn (Checksum)</b></summary>
-
-```text
-File: Threads2Video_Setup_v2.5.0.exe
-SHA256: b818acf0107c721387c2393cbb425db417d88e4ce35b8a28f1d45eda1d3ca271
-Chữ ký số: Ed25519 (Verified)
-```
-*(Mã băm SHA-256 là dấu vân tay điện tử một chiều tiêu chuẩn quốc tế giúp bạn đối chiếu tính nguyên vẹn của tệp tải về, đảm bảo tệp sạch và không bị lỗi đường truyền).*
-</details>
+Mã băm SHA-256 đối chiếu tính toàn vẹn và chữ ký số mật mã học Ed25519 của từng bản cài đặt được công bố minh bạch tại [GitHub Releases](https://github.com/vantaii-cc/thorets/releases) và tệp kê khai [version.json](updates/version.json).
 
 ---
 
