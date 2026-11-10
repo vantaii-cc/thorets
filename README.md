@@ -66,9 +66,13 @@ Do đây là phần mềm mới phát hành và chưa tích lũy chứng chỉ d
 
 ---
 
-### ⚖️ Tuyên Bố Miễn Trừ Trách Nhiệm & Tuân Thu Bản Quyền (Legal Disclaimer)
+### ⚖️ Tuyên Bố Miễn Trừ Trách Nhiệm & Tuân Thủ Bản Quyền (Legal Disclaimer)
 
-* **Nhãn hiệu độc lập:** Các nhãn hiệu thương mại được nhắc đến thuộc quyền sở hữu của các tổ chức chủ quản tương ứng. Thờ Rét City Studio là công cụ máy trạm độc lập hỗ trợ biên tập đa phương tiện cho nhà sáng tạo nội dung.
+* **Quyền sở hữu nhãn hiệu & Tính độc lập:**
+  * **Threads** là nhãn hiệu thương mại của **Meta Platforms, Inc.**
+  * **CapCut** là nhãn hiệu thương mại của **ByteDance Ltd.**
+  * **Microsoft Edge & Windows** là nhãn hiệu thương mại của **Microsoft Corporation.**
+  * *Thờ Rét City Studio là công cụ máy trạm độc lập hỗ trợ biên tập đa phương tiện cho nhà sáng tạo nội dung, hoàn toàn không có mối liên kết, tài trợ, ủy quyền hay đại diện chính thức bởi bất kỳ tập đoàn nào nêu trên.*
 * **Nguyên tắc Sử dụng Hợp lý (Fair Use):** Phần mềm tiếp nhận các bài thảo luận công khai nhằm phục vụ mục đích sáng tạo nội dung phái sinh, bình luận, chia sẻ kiến thức và giải trí phù hợp với nguyên tắc Fair Use và pháp luật hiện hành.
 * **Trách nhiệm người dùng:** Người sáng tạo nội dung chịu trách nhiệm về nội dung xuất bản và phân phối trên các nền tảng mạng xã hội.
 
