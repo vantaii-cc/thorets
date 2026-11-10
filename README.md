@@ -1,6 +1,6 @@
-# 🎬 Thờ Rét City Studio (v2.4.6 Turbo)
+# 🎬 Thờ Rét City Studio (v2.5.0 Pro)
 
-[![Version](https://img.shields.io/badge/Phiên_bản-v2.4.6_Turbo-007acc?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
+[![Version](https://img.shields.io/badge/Phiên_bản-v2.5.0_Pro-007acc?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![Platform](https://img.shields.io/badge/Nền_tảng-Windows_10_|_11_x64-00b4d8?style=for-the-badge&logo=windows)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![License](https://img.shields.io/badge/Trải_nghiệm-Dùng_thử_miễn_phí-10b981?style=for-the-badge)](https://github.com/vantaii-cc/thorets/releases/latest)
 [![Security](https://img.shields.io/badge/Bảo_mật-Local--First_|_Zero_Telemetry-6366f1?style=for-the-badge)](https://github.com/vantaii-cc/thorets)
@@ -13,11 +13,20 @@
 
 Bấm vào liên kết bên dưới để tải trực tiếp gói cài đặt chính thức dành cho Windows:
 
-### 👉 **[⬇️ TẢI XUỐNG THỜ RÉT CITY STUDIO CHO WINDOWS (v2.4.6)](https://github.com/vantaii-cc/thorets/releases/download/v2.4.6/Threads2Video_Setup_v2.4.6.exe)**
+### 👉 **[⬇️ TẢI XUỐNG THỜ RÉT CITY STUDIO CHO WINDOWS (v2.5.0)](https://github.com/vantaii-cc/thorets/releases/download/v2.5.0/Threads2Video_Setup_v2.5.0.exe)**
 
 * ⚡ **Dung lượng:** ~137 MB (Biên dịch C++ độc lập, chạy mượt mà ngay trên máy tính)
 * 🕒 **Cài đặt siêu nhanh:** ~10 giây
 * 🎁 **Chính sách trải nghiệm:** Tự động kích hoạt **24 giờ dùng thử đầy đủ tính năng** ngay lần đầu mở ứng dụng.
+
+---
+
+### 🌟 Điểm Mới Nổi Bật Trong Phiên Bản v2.5.0
+
+* **🧠 Ghi nhớ & Đồng bộ vĩnh viễn Model giọng nói:** Khắc phục triệt để tình trạng phải chọn lại model giọng khi khởi động lại ứng dụng. Tự động đồng bộ các lựa chọn giọng đọc và cấu hình âm thanh giữa chế độ Tạo 1 Video và Tạo hàng loạt.
+* **🔄 Đồng bộ 2 chiều giọng OP:** Giọng người đăng bài (OP) trong bảng chọn bình luận tự động đồng bộ thời gian thực với cửa sổ chính (mặc định Hoài My Edge), thay đổi ở bất cứ đâu đều được cập nhật tức thì.
+* **🎧 Nghe thử tức thì trực quan (Instant Preview):** Khi bạn bấm chọn bất kỳ Giọng đọc, SFX chuyển câu hoặc Meme nào trong danh sách, hệ thống sẽ tự động phát nghe thử ngay lập tức mà không cần thao tác thêm; nút Nghe thử hỗ trợ nghe thử thông minh và dừng âm thanh linh hoạt.
+* **🛡️ Tối ưu hóa tính ổn định & Bộ lọc FFmpeg:** Sửa lỗi biến môi trường cục bộ khi tổng hợp các giọng đọc kết hợp, đảm bảo quá trình render video diễn ra trơn tru và liên tục.
 
 ---
 
@@ -57,7 +66,7 @@ Do đây là phần mềm mới phát hành và chưa tích lũy chứng chỉ d
 
 ---
 
-### ⚖️ Tuyên Bố Miễn Trừ Trách Nhiệm & Tuân Thủ Bản Quyền (Legal Disclaimer)
+### ⚖️ Tuyên Bố Miễn Trừ Trách Nhiệm & Tuân Thu Bản Quyền (Legal Disclaimer)
 
 * **Nhãn hiệu độc lập:** Các nhãn hiệu thương mại được nhắc đến thuộc quyền sở hữu của các tổ chức chủ quản tương ứng. Thờ Rét City Studio là công cụ máy trạm độc lập hỗ trợ biên tập đa phương tiện cho nhà sáng tạo nội dung.
 * **Nguyên tắc Sử dụng Hợp lý (Fair Use):** Phần mềm tiếp nhận các bài thảo luận công khai nhằm phục vụ mục đích sáng tạo nội dung phái sinh, bình luận, chia sẻ kiến thức và giải trí phù hợp với nguyên tắc Fair Use và pháp luật hiện hành.
@@ -71,8 +80,8 @@ Do đây là phần mềm mới phát hành và chưa tích lũy chứng chỉ d
 <summary><b>👉 Xem mã SHA-256 đối chiếu tính toàn vẹn (Checksum)</b></summary>
 
 ```text
-File: Threads2Video_Setup_v2.4.6.exe
-SHA256: 78f5ad54a051672043efc0c4c3cceb386a536f0cce99d934550b0036a533880b
+File: Threads2Video_Setup_v2.5.0.exe
+SHA256: b818acf0107c721387c2393cbb425db417d88e4ce35b8a28f1d45eda1d3ca271
 Chữ ký số: Ed25519 (Verified)
 ```
 *(Mã băm SHA-256 là dấu vân tay điện tử một chiều tiêu chuẩn quốc tế giúp bạn đối chiếu tính nguyên vẹn của tệp tải về, đảm bảo tệp sạch và không bị lỗi đường truyền).*
