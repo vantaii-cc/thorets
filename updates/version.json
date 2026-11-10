@@ -1,18 +1,18 @@
 {
-  "version": "2.4.9",
-  "release_date": "2026-11-10T14:11:40.112144+00:00",
+  "version": "2.5.0",
+  "release_date": "2026-11-10T17:56:22.394578+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144006684,
-  "sha256": "f4f44587713f0b14ef9db07ea0d38d0f24bf8d86a8d8107a1433923b036d6813",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.9/Threads2Video_Setup_v2.4.9.exe",
+  "size_bytes": 144012973,
+  "sha256": "b818acf0107c721387c2393cbb425db417d88e4ce35b8a28f1d45eda1d3ca271",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.0/Threads2Video_Setup_v2.5.0.exe",
   "changelog": [
-    "Chuẩn hóa Unicode NFC toàn diện: Khắc phục triệt để lỗi phân rã ký tự có dấu, đảm bảo giọng đọc AI và văn bản trên thẻ hiển thị chính xác 100%.",
-    "Tối ưu hóa phân đoạn âm thanh - hình ảnh: Đồng bộ chính xác ranh giới câu giữa thẻ hiển thị và giọng đọc AI cho các bài viết dài nhiều đoạn.",
-    "Bộ quy tắc phát âm AI thông minh: Phân biệt chuẩn xác giữa từ viết tắt công nghệ (AI, BA...) với từ thuần Việt, ngăn chặn xung đột từ vựng.",
-    "Nâng cấp giao diện Bảng Biên Tập Bình Luận: Tối ưu hóa hiệu năng mở bảng và chọn checkbox siêu tốc (dưới 16ms), tự động lưu quy tắc phát âm AI và căn chỉnh danh mục chọn SFX / Giọng đọc mượt mà.",
+    "Tự động ghi nhớ và đồng bộ cấu hình Model giọng đọc AI (VieNeu, Edge, CapCut): Khắc phục triệt để tình trạng phải chọn lại model giọng mỗi khi mở ứng dụng.",
+    "Đồng bộ 2 chiều giọng OP: Giọng OP ở bảng chọn bình luận tự động đồng bộ thời gian thực với cửa sổ chính (mặc định Hoài My Edge), thay đổi ở bất cứ đâu đều tự động cập nhật.",
+    "Nâng cấp trải nghiệm nghe thử âm thanh bảng chọn bình luận: Tự động phát nghe thử ngay khi chọn Giọng đọc, SFX hoặc Meme; nút Nghe thử hỗ trợ nghe thử thông minh và dừng âm thanh linh hoạt.",
+    "Sửa lỗi UnboundLocalError tại bước tổng hợp âm thanh và ghép video khi dự án sử dụng các giọng đọc tùy biến (Mixed TTS Provider).",
     "Tối ưu hóa hiệu năng render video và tăng cường độ ổn định tổng thể của hệ thống."
   ],
-  "signature": "8ba62f614216464fd5b054c8829d89df7e8eccb1cc02d6856589f64b76a3264211e0739542015b706949906de68f1f99b871e0e720e09a8d3c63b1f2e8a52509"
+  "signature": "0af672c1229af42f54e9f34772b5dde46ff2677a2ca9b424b3e9188e786becefd57c292379a6a978700eb74b98814f93a545e5e16e190f9b224ceafcffc55307"
 }
