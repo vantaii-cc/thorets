@@ -1,18 +1,18 @@
 {
-  "version": "2.4.7",
-  "release_date": "2026-11-09T23:22:18.334145+00:00",
+  "version": "2.4.8",
+  "release_date": "2026-11-10T03:52:31.160794+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 143917185,
-  "sha256": "a33dd68b1978475776f2d093ae08c647731afbac7b2b385f939fa7cc8507e59f",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.7/Threads2Video_Setup_v2.4.7.exe",
+  "size_bytes": 143924105,
+  "sha256": "28e8b37d0bebf70404412addb3ea3e77c1360a099f2130b6ce2e9e8d5241d904",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.4.8/Threads2Video_Setup_v2.4.8.exe",
   "changelog": [
-    "Khắc phục triệt để lỗi gõ tiếng Việt (IME): Tự động commit chuỗi ký tự đang gõ vào văn bản khi bấm chuột ra ngoài, không bị mất dấu hay mất chữ.",
-    "Bộ quy tắc phát âm & viết tắt (quytac.txt): Chuẩn hóa 185 quy tắc chuyển đổi tiếng lóng và viết tắt Threads/TikTok cho AI đọc tự nhiên.",
-    "Tối ưu hóa bố cục thẻ (Cards): Nâng cấp hiển thị Phản Dame (+diff tim), phân cấp nhánh bình luận mượt mà và tách khối ảnh media độc lập.",
-    "Nâng cấp bộ dựng Meme & Filter Graph FFmpeg: Tự động căn vị trí meme tránh che khuất thẻ, bảo đảm kích thước chẵn pixel chống lỗi render.",
-    "Kiểm định thực tế quy mô lớn: Đã vượt qua kiểm thử tải liên tục trên 267 bài viết Threads thực tế (7,439 segments) với tỷ lệ hoàn thành 100% không phát sinh lỗi."
+    "Khắc phục triệt để lỗi tự động cập nhật: Loại bỏ xung đột Windows Job Object và giải phóng Mutex ứng dụng, đảm bảo bộ cài Inno Setup khởi chạy ngầm 100% mượt mà.",
+    "Nâng cấp cơ chế bàn giao cập nhật: Ứng dụng tự động đóng và khởi động lại phiên bản mới an toàn, không treo tiến trình hay mất kết nối.",
+    "Bộ từ điển phát âm & viết tắt (quytac.txt): Nâng cấp danh mục 794 quy tắc chuẩn hóa tiếng lóng và viết tắt mạng xã hội.",
+    "Tối ưu hóa bố cục thẻ (Cards): Nâng cấp hiển thị Phản Dame (+diff tim), phân cấp nhánh bình luận và khối media.",
+    "Tối ưu hóa hiệu năng render video: Tự động căn chỉnh Meme & SFX, đảm bảo kích thước chẵn pixel và không che khuất nội dung."
   ],
-  "signature": "438fd021a5b0598a468f6ed4a6f0b97e1d5875659333c39d07e08d64bcbfd75308e143c99bb73f0e8fd325bf2e07e83135e3dca419b76ebca897eb11b2a42904"
+  "signature": "0822016fe468ed26ae7bf333b90dffd51811e116f04725a702019c91d2ce30d8138f65abc80604440b0298eeb99dccf150d06cf5227583c33119758925c00d0d"
 }
