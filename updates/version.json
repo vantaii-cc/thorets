@@ -1,20 +1,19 @@
 {
-  "version": "2.5.1",
-  "release_date": "2026-11-10T23:31:46.557052+00:00",
+  "version": "2.5.2",
+  "release_date": "2026-11-11T08:19:01.463238+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144071519,
-  "sha256": "2f85274e7973aaa2b415f133b2e0b583b211fcc3fb9c56903af8a8be451bebd2",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.1/Threads2Video_Setup_v2.5.1.exe",
+  "size_bytes": 144052654,
+  "sha256": "f8e00fc1bc6ec4aa7925d512d97d6af760788e80a3371f12f44efae9eea2db64",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.2/Threads2Video_Setup_v2.5.2.exe",
   "changelog": [
-    "Hỗ trợ kết hợp đồng thời nhiều hiệu ứng Meme: Tự do chọn và phối hợp nhiều hiệu ứng cùng lúc (Phóng to Zoom, Trượt lên Slide, Nảy lên Bounce, Mờ vào Fade In, Mờ ra Fade Out) mang lại trải nghiệm thị giác sống động và linh hoạt hơn.",
-    "Bổ sung tùy chọn Vị trí hiển thị Meme: Cho phép linh hoạt chọn vị trí đặt Meme (Dưới thẻ bài tránh che chữ, Chính giữa màn hình, Phía trên thẻ bài, Dưới cùng khung hình) ở cả chế độ tạo đơn và sản xuất hàng loạt.",
+    "Thêm tùy chọn 'Ẩn danh tác giả': Tự động đổi tên hiển thị và tên tài khoản của tác giả bài viết và người bình luận thành 'Người dùng ẩn danh' trên các thẻ bài (hỗ trợ cả chế độ tạo đơn và hàng loạt).",
+    "Bảo vệ danh tính tác giả toàn diện: Tự động ẩn huy hiệu @username và chuẩn hóa chữ cái đại diện trên thẻ bài, giữ trọn vẹn avatar gốc.",
+    "Hỗ trợ kết hợp đồng thời nhiều hiệu ứng Meme: Tự do chọn và phối hợp nhiều hiệu ứng cùng lúc (Phóng to Zoom, Trượt lên Slide, Nảy lên Bounce, Mờ vào Fade In, Mờ ra Fade Out).",
+    "Bổ sung tùy chọn Vị trí hiển thị Meme linh hoạt ở cả chế độ tạo đơn và sản xuất hàng loạt.",
     "Sửa lỗi âm thanh clip Meme khi xuất bản thảo CapCut Desktop: Đảm bảo toàn bộ âm thanh của Meme video và file âm thanh đi kèm giữ trọn vẹn 100% âm lượng gốc trên timeline CapCut.",
-    "Tối ưu hóa cơ chế nghe thử âm thanh bảng chọn bình luận: Tự động ngắt và giải phóng luồng nền khi chuyển đổi giọng đọc nhanh hoặc đóng bảng, giúp tiến trình tạo video tiếp nối mượt mà và liền mạch.",
-    "Đồng bộ 2 chiều giọng OP: Giọng OP ở bảng chọn bình luận tự động đồng bộ thời gian thực với cửa sổ chính (mặc định Hoài My Edge).",
-    "Tự động ghi nhớ và đồng bộ cấu hình Model giọng đọc AI (VieNeu, Edge, CapCut) trên toàn ứng dụng.",
-    "Nâng cấp quản lý vòng đời tài nguyên và tăng cường độ ổn định tổng thể của hệ thống."
+    "Tối ưu hóa quản lý vòng đời tài nguyên và tăng cường độ ổn định tổng thể của hệ thống."
   ],
-  "signature": "f790ac99cb66f610825c1fa1c14ac47cfda445d055808c147d8bf041959573575aab8b84be10199e874111a40af5ca43f296b77f972e832d18db963a3900200c"
+  "signature": "741a905cf424f4a0730fa2599e76b83fb21feed7cf34f923d9f833bf9031cdbd55c6b5a0544ed9473ac0ac2d80f03d5e2b04158174195f9ea4b9b82c81b3730b"
 }
