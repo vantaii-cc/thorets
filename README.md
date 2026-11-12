@@ -41,12 +41,12 @@ Bấm vào liên kết bên dưới để tải gói cài đặt chính thức m
 
 ---
 
-### 🛠 Hướng Dẫn Vượt Microsoft Defender SmartScreen
+### ℹ️ Lưu ý khi cài đặt lần đầu trên Windows
 
-Do đây là phần mềm mới phát hành và chưa tích lũy chứng chỉ danh tiếng từ Microsoft, Windows có thể hiển thị thông báo màn hình xanh bảo vệ *(Windows protected your PC)*:
+Do bản cài đặt mới phát hành ở định dạng độc lập (standalone), Windows có thể hiển thị hộp thoại xác nhận ban đầu *(Windows protected your PC)*:
 
 1. Bấm vào dòng chữ **More info** (hoặc *Thông tin thêm*).
-2. Bấm nút **Run anyway** (hoặc *Vẫn chạy*) để mở trình cài đặt bình thường.
+2. Chọn **Run anyway** (hoặc *Vẫn chạy*) để mở trình cài đặt bình thường.
 
 ---
 
@@ -76,5 +76,5 @@ Mã băm SHA-256 đối chiếu tính toàn vẹn và chữ ký số mật mã h
 
 ---
 
-### 📞 Kênh Hỗ Trợ & Kích Hoạt Bản Quyền
-* 🔑 **Kích hoạt bản quyền:** Sau khi hết 24 giờ dùng thử, gửi **Mã máy (Machine ID)** hiển thị trên góc ứng dụng qua Zalo để nhận mã kích hoạt sử dụng lâu dài.
+### 📞 Kênh Hỗ Trợ Kỹ Thuật & Cộng Đồng
+* 💬 **Hỗ trợ kỹ thuật & Hướng dẫn sử dụng:** Sau 24 giờ trải nghiệm miễn phí, bạn có thể liên hệ Zalo hỗ trợ kỹ thuật để được hỗ trợ kích hoạt sử dụng lâu dài và tham gia cộng đồng sáng tạo video.
