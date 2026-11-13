@@ -1,18 +1,17 @@
 {
-  "version": "2.5.3",
-  "release_date": "2026-11-13T21:07:36.995655+00:00",
+  "version": "2.5.4",
+  "release_date": "2026-11-13T23:56:11.184378+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144238558,
-  "sha256": "397bacc40a5ce08d5f44149a26ed9c38241d8736633c51615eb15df170e7e8b8",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.3/Threads2Video_Setup_v2.5.3.exe",
+  "size_bytes": 144192603,
+  "sha256": "8381b033e448a91cd7941fe598e010ee5d4da5ddd892e9060bf2faebc51f1faf",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.4/Threads2Video_Setup_v2.5.4.exe",
   "changelog": [
-    "Thêm tiện ích Xem trước bố cục trực tiếp (Live Layout Preview): Xem trước hình ảnh mô phỏng video theo tỷ lệ khung hình, vị trí thẻ bài và chuyển động meme.",
-    "Nâng cấp thuật toán trích xuất & ghép chuỗi bình luận cha - con: Giữ trọn vẹn ngữ cảnh đối đáp, hỗ trợ bình luận chứa hình ảnh/video trực quan.",
-    "Tinh chỉnh kích cỡ & vị trí Meme linh hoạt: Hỗ trợ phóng lớn sát viền và thiết lập pixel tùy chỉnh, đồng bộ tự động sang bản thảo CapCut Desktop.",
-    "Hoàn thiện hệ thống âm thanh chuyển cảnh (SFX) & Meme Audio: Phân tách độc lập âm thanh chuyển câu, hỗ trợ tắt âm thanh cho từng bình luận riêng biệt.",
-    "Tối ưu hóa hiệu năng render, khắc phục triệt để lỗi xung đột luồng và nâng cao độ ổn định tổng thể của ứng dụng."
+    "Thiết kế lại toàn bộ giao diện theo chuẩn Studio Design System với 2 chế độ sáng/tối (Light Pro & Dark Studio) đồng bộ từ màn hình chính đến tất cả hộp thoại.",
+    "Nâng cấp Tab Tạo video với bố cục 4 thẻ quy trình rõ ràng kết hợp Bảng điều khiển sản xuất (Production Cockpit) trực quan và tối ưu hiển thị trên mọi kích thước cửa sổ.",
+    "Đồng bộ giao diện Bảng chọn bình luận, Cài đặt hệ thống (7 tab gọn trên 1 hàng), Bảng phát âm AI, Bản quyền, Nhật ký và Trình cập nhật.",
+    "Tinh chỉnh ô nhập số liệu, thanh chọn giọng đọc, thanh trượt meme và sửa lỗi mở hướng dẫn lấy Cookie Threads."
   ],
-  "signature": "6c0af6bc5a41475d491b6bab5ea376f5c298590a1526a961bc642b92224a5c482972aaf34eb3b77fe6ea68625d0aa4e137e8179ad3df14c134f2dc8040b7030e"
+  "signature": "7d54bd9f88e8720ecdc645fbb67914786aa88ee46327c6d3d76c4597db961ab310e8a63ce4a8f17ad2a3a26459496dbaa928aed63c2472eb323fc568d8ec010d"
 }
