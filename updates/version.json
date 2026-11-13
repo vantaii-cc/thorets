@@ -1,19 +1,18 @@
 {
-  "version": "2.5.2",
-  "release_date": "2026-11-11T08:19:01.463238+00:00",
+  "version": "2.5.3",
+  "release_date": "2026-11-13T21:07:36.995655+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144052654,
-  "sha256": "f8e00fc1bc6ec4aa7925d512d97d6af760788e80a3371f12f44efae9eea2db64",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.2/Threads2Video_Setup_v2.5.2.exe",
+  "size_bytes": 144238558,
+  "sha256": "397bacc40a5ce08d5f44149a26ed9c38241d8736633c51615eb15df170e7e8b8",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.3/Threads2Video_Setup_v2.5.3.exe",
   "changelog": [
-    "Thêm tùy chọn 'Ẩn danh tác giả': Tự động đổi tên hiển thị và tên tài khoản của tác giả bài viết và người bình luận thành 'Người dùng ẩn danh' trên các thẻ bài (hỗ trợ cả chế độ tạo đơn và hàng loạt).",
-    "Bảo vệ danh tính tác giả toàn diện: Tự động ẩn huy hiệu @username và chuẩn hóa chữ cái đại diện trên thẻ bài, giữ trọn vẹn avatar gốc.",
-    "Hỗ trợ kết hợp đồng thời nhiều hiệu ứng Meme: Tự do chọn và phối hợp nhiều hiệu ứng cùng lúc (Phóng to Zoom, Trượt lên Slide, Nảy lên Bounce, Mờ vào Fade In, Mờ ra Fade Out).",
-    "Bổ sung tùy chọn Vị trí hiển thị Meme linh hoạt ở cả chế độ tạo đơn và sản xuất hàng loạt.",
-    "Sửa lỗi âm thanh clip Meme khi xuất bản thảo CapCut Desktop: Đảm bảo toàn bộ âm thanh của Meme video và file âm thanh đi kèm giữ trọn vẹn 100% âm lượng gốc trên timeline CapCut.",
-    "Tối ưu hóa quản lý vòng đời tài nguyên và tăng cường độ ổn định tổng thể của hệ thống."
+    "Thêm tiện ích Xem trước bố cục trực tiếp (Live Layout Preview): Xem trước hình ảnh mô phỏng video theo tỷ lệ khung hình, vị trí thẻ bài và chuyển động meme.",
+    "Nâng cấp thuật toán trích xuất & ghép chuỗi bình luận cha - con: Giữ trọn vẹn ngữ cảnh đối đáp, hỗ trợ bình luận chứa hình ảnh/video trực quan.",
+    "Tinh chỉnh kích cỡ & vị trí Meme linh hoạt: Hỗ trợ phóng lớn sát viền và thiết lập pixel tùy chỉnh, đồng bộ tự động sang bản thảo CapCut Desktop.",
+    "Hoàn thiện hệ thống âm thanh chuyển cảnh (SFX) & Meme Audio: Phân tách độc lập âm thanh chuyển câu, hỗ trợ tắt âm thanh cho từng bình luận riêng biệt.",
+    "Tối ưu hóa hiệu năng render, khắc phục triệt để lỗi xung đột luồng và nâng cao độ ổn định tổng thể của ứng dụng."
   ],
-  "signature": "741a905cf424f4a0730fa2599e76b83fb21feed7cf34f923d9f833bf9031cdbd55c6b5a0544ed9473ac0ac2d80f03d5e2b04158174195f9ea4b9b82c81b3730b"
+  "signature": "6c0af6bc5a41475d491b6bab5ea376f5c298590a1526a961bc642b92224a5c482972aaf34eb3b77fe6ea68625d0aa4e137e8179ad3df14c134f2dc8040b7030e"
 }
