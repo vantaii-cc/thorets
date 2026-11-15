@@ -1,17 +1,17 @@
 {
-  "version": "2.5.4",
-  "release_date": "2026-11-13T23:56:11.184378+00:00",
+  "version": "2.5.5",
+  "release_date": "2026-11-15T19:45:14.841505+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144192603,
-  "sha256": "8381b033e448a91cd7941fe598e010ee5d4da5ddd892e9060bf2faebc51f1faf",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.4/Threads2Video_Setup_v2.5.4.exe",
+  "size_bytes": 144230879,
+  "sha256": "7b6f55f4a04cca57476c5219f9385a6607ceb7a3bf880c853a16bde591efb4dc",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.5/Threads2Video_Setup_v2.5.5.exe",
   "changelog": [
-    "Thiết kế lại toàn bộ giao diện theo chuẩn Studio Design System với 2 chế độ sáng/tối (Light Pro & Dark Studio) đồng bộ từ màn hình chính đến tất cả hộp thoại.",
-    "Nâng cấp Tab Tạo video với bố cục 4 thẻ quy trình rõ ràng kết hợp Bảng điều khiển sản xuất (Production Cockpit) trực quan và tối ưu hiển thị trên mọi kích thước cửa sổ.",
-    "Đồng bộ giao diện Bảng chọn bình luận, Cài đặt hệ thống (7 tab gọn trên 1 hàng), Bảng phát âm AI, Bản quyền, Nhật ký và Trình cập nhật.",
-    "Tinh chỉnh ô nhập số liệu, thanh chọn giọng đọc, thanh trượt meme và sửa lỗi mở hướng dẫn lấy Cookie Threads."
+    "Cải thiện hiển thị ảnh đính kèm và bộ nhiều ảnh (carousel) trên thẻ video: ảnh đơn co vừa khung gọn gàng không viền đen, lưới tối đa 4 ảnh kèm huy hiệu +N sắc nét.",
+    "Khắc phục lỗi hiển thị chéo nội dung bài gốc sang khung bình luận cha khi dựng bình luận phản hồi dạng ảnh hoặc chưa có lượt trả lời.",
+    "Tối ưu tự động co giãn khung Meme theo khoảng trống thực tế bên dưới thẻ bài viết, tránh tràn hoặc che khuất nội dung.",
+    "Nâng cấp bộ lọc ảnh độ phân giải cao từ Threads, tự động thử lại khi mạng chập chờn và hoàn thiện trình sửa chữ bình luận đính kèm ảnh."
   ],
-  "signature": "7d54bd9f88e8720ecdc645fbb67914786aa88ee46327c6d3d76c4597db961ab310e8a63ce4a8f17ad2a3a26459496dbaa928aed63c2472eb323fc568d8ec010d"
+  "signature": "8f85e165fee1afacc0b1d0f77996080bfbec2d7e86d72c3318edbe748d4ab03aca4a6402ccd0b0b093dc9db3af0f3ebde3818af2b11b5a64c47f81b5250eee05"
 }
