@@ -1,17 +1,17 @@
 {
-  "version": "2.5.5",
-  "release_date": "2026-11-15T19:45:14.841505+00:00",
+  "version": "2.5.6",
+  "release_date": "2026-11-17T23:24:22.112430+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144230879,
-  "sha256": "7b6f55f4a04cca57476c5219f9385a6607ceb7a3bf880c853a16bde591efb4dc",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.5/Threads2Video_Setup_v2.5.5.exe",
+  "size_bytes": 144662307,
+  "sha256": "37c9d7de0484ca006152b4fd56182b48601cabcd45ea45e7a02ec516c8698b88",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.6/Threads2Video_Setup_v2.5.6.exe",
   "changelog": [
-    "Cải thiện hiển thị ảnh đính kèm và bộ nhiều ảnh (carousel) trên thẻ video: ảnh đơn co vừa khung gọn gàng không viền đen, lưới tối đa 4 ảnh kèm huy hiệu +N sắc nét.",
-    "Khắc phục lỗi hiển thị chéo nội dung bài gốc sang khung bình luận cha khi dựng bình luận phản hồi dạng ảnh hoặc chưa có lượt trả lời.",
-    "Tối ưu tự động co giãn khung Meme theo khoảng trống thực tế bên dưới thẻ bài viết, tránh tràn hoặc che khuất nội dung.",
-    "Nâng cấp bộ lọc ảnh độ phân giải cao từ Threads, tự động thử lại khi mạng chập chờn và hoàn thiện trình sửa chữ bình luận đính kèm ảnh."
+    "Thêm các hiệu ứng chuyển động máy quay (Ken Burns, Pan lướt ngang, Pop-in) cho ảnh đính kèm trên thẻ bài viết, giúp video sinh động và hấp dẫn hơn.",
+    "Tích hợp công nghệ nhận diện chữ trên ảnh thông minh qua Gemini AI: tự động tạo hiệu ứng làm nổi bật câu chữ (Highlight, Marker sweep, Phóng to chữ trọng tâm) thu hút người xem.",
+    "Nâng cấp toàn diện trình xem trước bố cục video (Layout Preview): hỗ trợ kéo thả trực quan vị trí và kích thước khung Meme, căn chỉnh vị trí thẻ bài viết thời gian thực.",
+    "Tối ưu hóa hiệu năng cào bài viết và xử lý danh sách hàng loạt (Batch Queue), tăng cường độ ổn định và cải thiện trải nghiệm người dùng."
   ],
-  "signature": "8f85e165fee1afacc0b1d0f77996080bfbec2d7e86d72c3318edbe748d4ab03aca4a6402ccd0b0b093dc9db3af0f3ebde3818af2b11b5a64c47f81b5250eee05"
+  "signature": "5fbbb6302b5a07ddf6a59e8e7c3c9d9960f210e5297bb9b412dbaa3324e98bf3da21a68347f2eed8b1d556fece029d4cde92b0f53806f505ec2e32581a78540e"
 }
