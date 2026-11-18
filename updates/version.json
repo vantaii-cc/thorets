@@ -1,17 +1,17 @@
 {
-  "version": "2.5.6",
-  "release_date": "2026-11-17T23:24:22.112430+00:00",
+  "version": "2.5.7",
+  "release_date": "2026-11-18T08:31:42.316056+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144662307,
-  "sha256": "37c9d7de0484ca006152b4fd56182b48601cabcd45ea45e7a02ec516c8698b88",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.6/Threads2Video_Setup_v2.5.6.exe",
+  "size_bytes": 144697949,
+  "sha256": "8986927b05edcb6c313929bf54840f22c5c64943736b4a57e815d551529205b4",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.7/Threads2Video_Setup_v2.5.7.exe",
   "changelog": [
-    "Thêm các hiệu ứng chuyển động máy quay (Ken Burns, Pan lướt ngang, Pop-in) cho ảnh đính kèm trên thẻ bài viết, giúp video sinh động và hấp dẫn hơn.",
-    "Tích hợp công nghệ nhận diện chữ trên ảnh thông minh qua Gemini AI: tự động tạo hiệu ứng làm nổi bật câu chữ (Highlight, Marker sweep, Phóng to chữ trọng tâm) thu hút người xem.",
-    "Nâng cấp toàn diện trình xem trước bố cục video (Layout Preview): hỗ trợ kéo thả trực quan vị trí và kích thước khung Meme, căn chỉnh vị trí thẻ bài viết thời gian thực.",
-    "Tối ưu hóa hiệu năng cào bài viết và xử lý danh sách hàng loạt (Batch Queue), tăng cường độ ổn định và cải thiện trải nghiệm người dùng."
+    "Thêm tùy chọn bật/tắt tính năng tự động chọn SFX và Meme ngay trong mục Nguồn nội dung.",
+    "Tối ưu bảng chọn bình luận: tự động sắp xếp đưa các bình luận được tick chọn lên đầu theo số lượng tim.",
+    "Khắc phục lỗi hiển thị số tim từ 1,000 trở lên và sửa hiện tượng tự động cuộn trang khi rê chuột vào khu vực chọn media.",
+    "Tối ưu hóa hiệu năng và tăng cường độ ổn định tổng thể của ứng dụng."
   ],
-  "signature": "5fbbb6302b5a07ddf6a59e8e7c3c9d9960f210e5297bb9b412dbaa3324e98bf3da21a68347f2eed8b1d556fece029d4cde92b0f53806f505ec2e32581a78540e"
+  "signature": "e31c2e7c28a78a5ebd70b142156b5fd2b48a17a4e916adb36dfa7315929872fba6b28779eee50b1fa348128493eb96a5863caa34653b554a53d4f83f3f0dff0a"
 }
