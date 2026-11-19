@@ -1,18 +1,19 @@
 {
-  "version": "2.5.9",
-  "release_date": "2026-11-19T13:23:59.669785+00:00",
+  "version": "2.6.0",
+  "release_date": "2026-11-19T14:47:48.380008+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144274589,
-  "sha256": "aa3dd2b7d0cad147368d57c8868b8d3f252d2abde91fb6fd05644fd213e154ad",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.9/Threads2Video_Setup_v2.5.9.exe",
+  "size_bytes": 145049841,
+  "sha256": "f544505f9856b22ce0c4430c5ae93ea32b3dae8460ac936e5d45166c82b29fb6",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.0/Threads2Video_Setup_v2.6.0.exe",
   "changelog": [
+    "Khắc phục sự cố khẩn cấp: Sửa lỗi thiếu module hộp thoại Cài đặt, Bảng phát âm và các công cụ điều khiển trên bản EXE độc lập.",
     "Tính năng mới: AI nhận diện ảnh hội thoại và đọc đa nhân vật theo từng bóng tin nhắn, hỗ trợ hiệu ứng hiển thị tin nhắn lũy tiến.",
     "Bổ sung Trình biên tập hội thoại (Dialogue Editor) trực quan: dễ dàng xem trước, điều chỉnh kịch bản, nghe thử và đổi giọng đọc AI cho từng câu.",
     "Tối ưu hóa bố cục danh sách và gạch đầu dòng trên thẻ bài viết, tự động lọc ký tự đầu dòng giúp AI đọc mượt mà và tự nhiên hơn.",
     "Tăng tốc cào bài viết tức thì nhờ cơ chế giữ ấm trình duyệt nền (Warm Browser), tự động giải phóng RAM khi xuất video.",
     "Cải thiện độ ổn định của các cổng giọng đọc AI, tối ưu hóa pipeline dựng hình và xuất CapCut Draft."
   ],
-  "signature": "c96d913f66c715c829d208001b44732e9d2e67378f9319dbd74421f714b01d227c3b950ed66254b23441c833d96124a22f05638beb9ea55c6d49d996659cc10e"
+  "signature": "10613af3f792ec16b271cc092d2dd465d9bb0f2626a6841a129acfbc3700e94d5da1ba1fcb0571d7317365aa7901fd4d30b9b6a02024a4b833ff3675b791df0a"
 }
