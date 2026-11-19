@@ -1,18 +1,18 @@
 {
-  "version": "2.5.8",
-  "release_date": "2026-11-18T12:53:51.762346+00:00",
+  "version": "2.5.9",
+  "release_date": "2026-11-19T13:23:59.669785+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 144744486,
-  "sha256": "13347c8ae36fdf23fad0d18f1fd6e8973c51a106c3bfcd0cc8e32ec3c85dcfd2",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.8/Threads2Video_Setup_v2.5.8.exe",
+  "size_bytes": 144274589,
+  "sha256": "aa3dd2b7d0cad147368d57c8868b8d3f252d2abde91fb6fd05644fd213e154ad",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.5.9/Threads2Video_Setup_v2.5.9.exe",
   "changelog": [
-    "Tối ưu hóa hiệu năng giao diện và tốc độ phản hồi khi nhập liệu, cấu hình thư mục.",
-    "Tối ưu bảng lịch sử dự án: nạp nhanh hơn, thao tác mượt mà và giảm đáng kể mức tiêu thụ bộ nhớ.",
-    "Tăng tốc độ nghe thử giọng đọc: tự động phát tức thì đối với các giọng đã có trong bộ nhớ đệm.",
-    "Nâng cao độ ổn định quy trình cào bài viết, xử lý âm thanh/video và xuất CapCut Draft.",
-    "Tối ưu hóa hệ thống ghi nhận lỗi và nâng cao độ ổn định tổng thể của ứng dụng."
+    "Tính năng mới: AI nhận diện ảnh hội thoại và đọc đa nhân vật theo từng bóng tin nhắn, hỗ trợ hiệu ứng hiển thị tin nhắn lũy tiến.",
+    "Bổ sung Trình biên tập hội thoại (Dialogue Editor) trực quan: dễ dàng xem trước, điều chỉnh kịch bản, nghe thử và đổi giọng đọc AI cho từng câu.",
+    "Tối ưu hóa bố cục danh sách và gạch đầu dòng trên thẻ bài viết, tự động lọc ký tự đầu dòng giúp AI đọc mượt mà và tự nhiên hơn.",
+    "Tăng tốc cào bài viết tức thì nhờ cơ chế giữ ấm trình duyệt nền (Warm Browser), tự động giải phóng RAM khi xuất video.",
+    "Cải thiện độ ổn định của các cổng giọng đọc AI, tối ưu hóa pipeline dựng hình và xuất CapCut Draft."
   ],
-  "signature": "96f4f6ca112c97d7f51450f4976d79fc55f996e9b6f0f633d725e8790cdc385a57a561accfac11c148e741b4b7167db38b3877ed8338bef9de8f374b0298f00e"
+  "signature": "c96d913f66c715c829d208001b44732e9d2e67378f9319dbd74421f714b01d227c3b950ed66254b23441c833d96124a22f05638beb9ea55c6d49d996659cc10e"
 }
