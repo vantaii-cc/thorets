@@ -1,20 +1,18 @@
 {
-  "version": "2.6.2",
-  "release_date": "2026-11-20T08:53:33.566789+00:00",
+  "version": "2.6.3",
+  "release_date": "2026-11-20T23:29:07.294719+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145240474,
-  "sha256": "f180cd4b75aa0540ac6fbe133e036b46348ad8fc5bcbfcc538c47ad0c0260135",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.2/Threads2Video_Setup_v2.6.2.exe",
+  "size_bytes": 145271649,
+  "sha256": "4dcbbf16c16ab78e30bd4325cc0775ab348b8e8fb67cfca4f94243687320d8b3",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.3/Threads2Video_Setup_v2.6.3.exe",
   "changelog": [
-    "Bổ sung hộp thoại thông báo cập nhật trực quan khi khởi động: Giúp người dùng nắm bắt tức thì các cải tiến mới và nâng cấp nhanh chóng chỉ với 1 chạm.",
-    "Tối ưu hóa bộ lọc ghép video FFmpeg: Tự động điều hướng và thích ứng linh hoạt cho các dự án video có số lượng bình luận lớn, chống gián đoạn kết xuất.",
-    "Bật cơ chế cập nhật tự động phổ quát: Đảm bảo toàn bộ người dùng luôn nhận được các bản vá lỗi và tối ưu hóa hệ thống mới nhất một cách mượt mà.",
-    "Nâng cấp hệ thống chẩn đoán lỗi thông minh: Tự động đính kèm ngữ cảnh bài viết và thiết bị giúp hỗ trợ kỹ thuật xử lý sự cố tức thì.",
-    "Tối ưu hóa hiệu năng và phản hồi giao diện: Loại bỏ triệt để độ trễ khi duyệt, lọc và chọn hàng loạt bình luận (tăng tốc độ xử lý hơn 4.000 lần).",
-    "Nâng cấp thuật toán phân đoạn câu tiếng Việt: Bảo vệ chính xác các danh xưng và từ viết tắt (TP., PGS., TS., ThS., BS., v.v.), loại bỏ hiện tượng ngắt câu sai lệch.",
-    "Tăng cường độ ổn định của các cổng giọng đọc AI (Edge TTS, VieNeu, CapCut TTS) và đồng bộ xuất CapCut Draft."
+    "Tinh gọn giao diện làm việc: Tối ưu thanh tab điều hướng, mở rộng không gian trực quan và thao tác mượt mà hơn.",
+    "Tối ưu hóa bộ lọc ghép video FFmpeg: Nâng cấp cơ chế phân tích tham số kịch bản, chống gián đoạn kết xuất và tăng độ ổn định của các dự án video dài.",
+    "Xử lý thông minh khi gặp giới hạn tần suất mạng (Rate Limit): Tự động phát hiện và hướng dẫn khắc phục khi máy chủ Threads giới hạn truy cập, đảm bảo tiến trình cào dữ liệu không bị ngắt quãng.",
+    "Tối ưu hóa tiến trình xuất CapCut Draft: Cải tiến cơ chế quản lý luồng nền, hỗ trợ xuất hàng loạt ổn định và giải phóng tài nguyên hệ thống tức thì.",
+    "Tăng cường độ tin cậy và phản hồi của hệ thống kích hoạt & đồng bộ bản quyền."
   ],
-  "signature": "117c94eacb2b9468942d19d6286adbc12920cf613deb8047d4910f599023057407962e9f92aaf6eec9c711ed6aa08930ba3455fe69858dc5e086b11b10696d0b"
+  "signature": "77118316e200d86409e81aae91ccdf89595b1e86b2920159fd8dee9b433a17e12fa89e913b538a680b35c63ed5736ee2726c353dfe13390d5977e9b8ba829c0d"
 }
