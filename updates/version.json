@@ -1,18 +1,19 @@
 {
-  "version": "2.6.3",
-  "release_date": "2026-11-20T23:29:07.294719+00:00",
+  "version": "2.6.4",
+  "release_date": "2026-11-21T06:11:16.878772+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145271649,
-  "sha256": "4dcbbf16c16ab78e30bd4325cc0775ab348b8e8fb67cfca4f94243687320d8b3",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.3/Threads2Video_Setup_v2.6.3.exe",
+  "size_bytes": 145252100,
+  "sha256": "f62e93baf8f094b423a8799e69a501efb658daee140b76017ed8744af9d69042",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.4/Threads2Video_Setup_v2.6.4.exe",
   "changelog": [
+    "Cải tiến đọc biểu cảm (Emoji): Tự động phiên âm tiếng Việt tự nhiên và trọn vẹn hơn khi chuyển đổi văn bản sang giọng đọc TTS.",
+    "Tối ưu hóa bộ nhớ đệm âm thanh meme: Tăng tốc độ phân tích luồng đa phương tiện và xử lý mượt mà khi kết xuất video hàng loạt.",
     "Tinh gọn giao diện làm việc: Tối ưu thanh tab điều hướng, mở rộng không gian trực quan và thao tác mượt mà hơn.",
-    "Tối ưu hóa bộ lọc ghép video FFmpeg: Nâng cấp cơ chế phân tích tham số kịch bản, chống gián đoạn kết xuất và tăng độ ổn định của các dự án video dài.",
-    "Xử lý thông minh khi gặp giới hạn tần suất mạng (Rate Limit): Tự động phát hiện và hướng dẫn khắc phục khi máy chủ Threads giới hạn truy cập, đảm bảo tiến trình cào dữ liệu không bị ngắt quãng.",
-    "Tối ưu hóa tiến trình xuất CapCut Draft: Cải tiến cơ chế quản lý luồng nền, hỗ trợ xuất hàng loạt ổn định và giải phóng tài nguyên hệ thống tức thì.",
-    "Tăng cường độ tin cậy và phản hồi của hệ thống kích hoạt & đồng bộ bản quyền."
+    "Tối ưu hóa bộ lọc ghép video FFmpeg: Chống gián đoạn kết xuất và tăng độ ổn định của các dự án video dài.",
+    "Xử lý thông minh khi gặp giới hạn tần suất mạng (Rate Limit): Tự động phát hiện và hướng dẫn khắc phục khi máy chủ giới hạn truy cập.",
+    "Tối ưu hóa tiến trình xuất CapCut Draft: Cải tiến quản lý luồng nền, hỗ trợ xuất hàng loạt ổn định và giải phóng tài nguyên tức thì."
   ],
-  "signature": "77118316e200d86409e81aae91ccdf89595b1e86b2920159fd8dee9b433a17e12fa89e913b538a680b35c63ed5736ee2726c353dfe13390d5977e9b8ba829c0d"
+  "signature": "9029049de1694337480e057c1aa685b3592ad17ec1bbfc67c1ec0d6e4b03b61b7d36c8969337e8b64679fa091556d825e80e0c965fc39158b98aa54ecee61e02"
 }
