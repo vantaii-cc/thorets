@@ -1,19 +1,17 @@
 {
-  "version": "2.6.4",
-  "release_date": "2026-11-21T06:11:16.878772+00:00",
+  "version": "2.6.5",
+  "release_date": "2026-11-22T05:28:08.726050+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145252100,
-  "sha256": "f62e93baf8f094b423a8799e69a501efb658daee140b76017ed8744af9d69042",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.4/Threads2Video_Setup_v2.6.4.exe",
+  "size_bytes": 145270581,
+  "sha256": "08535470641f53139ff2f9bb3f7e2610bb2463353c02cd98bac2bfbdd3888755",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.5/Threads2Video_Setup_v2.6.5.exe",
   "changelog": [
-    "Cải tiến đọc biểu cảm (Emoji): Tự động phiên âm tiếng Việt tự nhiên và trọn vẹn hơn khi chuyển đổi văn bản sang giọng đọc TTS.",
-    "Tối ưu hóa bộ nhớ đệm âm thanh meme: Tăng tốc độ phân tích luồng đa phương tiện và xử lý mượt mà khi kết xuất video hàng loạt.",
-    "Tinh gọn giao diện làm việc: Tối ưu thanh tab điều hướng, mở rộng không gian trực quan và thao tác mượt mà hơn.",
-    "Tối ưu hóa bộ lọc ghép video FFmpeg: Chống gián đoạn kết xuất và tăng độ ổn định của các dự án video dài.",
-    "Xử lý thông minh khi gặp giới hạn tần suất mạng (Rate Limit): Tự động phát hiện và hướng dẫn khắc phục khi máy chủ giới hạn truy cập.",
-    "Tối ưu hóa tiến trình xuất CapCut Draft: Cải tiến quản lý luồng nền, hỗ trợ xuất hàng loạt ổn định và giải phóng tài nguyên tức thì."
+    "Tiến trình thời gian thực khi ghép video: Hiển thị liên tục phần trăm, số giây, tốc độ render và FPS tại bước biên tập timeline (loại bỏ hoàn toàn hiện tượng đứng hình ở 85%).",
+    "Tối ưu hóa hiệu năng render & chống nghẽn CPU: Điều phối tối ưu luồng CPU và tiến trình FFmpeg, ngăn ngừa tình trạng bị giảm hiệu năng trên máy tính xách tay.",
+    "Cơ chế chống treo & bảo vệ luồng đa phương tiện: Tự động ngắt an toàn khi tiến trình xuất video bị đình trệ quá 3 phút, kiểm soát chặt chẽ giới hạn phát video nền và nhạc nền.",
+    "Nâng cấp chẩn đoán hệ thống thông minh: Nhận diện chính xác mô hình giọng đọc ngoại tuyến VieNeu-TTS v3 Turbo trong cache cục bộ và tăng cường độ ổn định tổng thể."
   ],
-  "signature": "9029049de1694337480e057c1aa685b3592ad17ec1bbfc67c1ec0d6e4b03b61b7d36c8969337e8b64679fa091556d825e80e0c965fc39158b98aa54ecee61e02"
+  "signature": "6816b97ee4d0e478e908a45eb473880cc0e6b99f2ca1eac8a935cde56f41813f426a749ca09a7be25e6b7f455106ad542f0a6eeddfd55aec57c1991575761505"
 }
