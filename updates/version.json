@@ -1,17 +1,17 @@
 {
-  "version": "2.6.5",
-  "release_date": "2026-11-22T05:28:08.726050+00:00",
+  "version": "2.6.6",
+  "release_date": "2026-11-22T18:37:02.029749+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145270581,
-  "sha256": "08535470641f53139ff2f9bb3f7e2610bb2463353c02cd98bac2bfbdd3888755",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.5/Threads2Video_Setup_v2.6.5.exe",
+  "size_bytes": 145297685,
+  "sha256": "f184847eea8d95ff3ffdc2887ba2df64716a1f97a0cee7a822c9442775a2fc54",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.6/Threads2Video_Setup_v2.6.6.exe",
   "changelog": [
-    "Tiến trình thời gian thực khi ghép video: Hiển thị liên tục phần trăm, số giây, tốc độ render và FPS tại bước biên tập timeline (loại bỏ hoàn toàn hiện tượng đứng hình ở 85%).",
-    "Tối ưu hóa hiệu năng render & chống nghẽn CPU: Điều phối tối ưu luồng CPU và tiến trình FFmpeg, ngăn ngừa tình trạng bị giảm hiệu năng trên máy tính xách tay.",
-    "Cơ chế chống treo & bảo vệ luồng đa phương tiện: Tự động ngắt an toàn khi tiến trình xuất video bị đình trệ quá 3 phút, kiểm soát chặt chẽ giới hạn phát video nền và nhạc nền.",
-    "Nâng cấp chẩn đoán hệ thống thông minh: Nhận diện chính xác mô hình giọng đọc ngoại tuyến VieNeu-TTS v3 Turbo trong cache cục bộ và tăng cường độ ổn định tổng thể."
+    "Tối ưu bố cục thẻ bài Threads & Chế độ Pop-up: Tách biệt thẻ bình luận nổi dạng pop-up đè lên thẻ OP làm nền, bảo đảm phần đầu bài gốc luôn hiển thị rõ ràng và meme không bị đẩy xuống đáy khung hình.",
+    "Tích hợp Trợ lý AI sáng tạo nội dung (Bản thử nghiệm / Demo): Hỗ trợ viết câu mở đầu (Hook 3s) giữ chân người xem, tạo kịch bản tin nhắn troll hài hước và gợi ý ý tưởng video viral đa nền tảng.",
+    "Đọc tin nhắn trong ảnh liền mạch (Progressive Chat Reveal): Tối ưu hóa nhịp hiển thị và phát giọng đọc trực tiếp phần chữ OP trước khi mở rộng dần hội thoại trong ảnh theo thời gian thực.",
+    "Nâng cao độ mượt & tối ưu hóa bộ nhớ: Cơ chế xử lý ảnh chụp màn hình trực tiếp trong RAM, loại bỏ hoàn toàn nguy cơ xung đột tập tin trên Windows và tăng tốc độ xử lý video."
   ],
-  "signature": "6816b97ee4d0e478e908a45eb473880cc0e6b99f2ca1eac8a935cde56f41813f426a749ca09a7be25e6b7f455106ad542f0a6eeddfd55aec57c1991575761505"
+  "signature": "02c323f941a96fb07d193f4fc2d52dc047887ae94a1bdf9c10164090bbec4ac4c100b8f1880110376a55235dbaea6921b48494bbba7253b1aa9d5972f69bd403"
 }
