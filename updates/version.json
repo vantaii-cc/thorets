@@ -1,17 +1,21 @@
 {
-  "version": "2.6.9",
-  "release_date": "2026-11-24T06:47:11.472218+00:00",
+  "version": "2.7.0",
+  "release_date": "2026-11-24T22:38:43.345396+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145507556,
-  "sha256": "a85732d9454301cd3a649b950e293454e85fb7d02ce71f47b30744cf256a8446",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.9/Threads2Video_Setup_v2.6.9.exe",
+  "size_bytes": 145816894,
+  "sha256": "b8b2daa3e2cc7767c569f8ce65909a08ac1ac6f11b6160e3a6702450705322ec",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.7.0/Threads2Video_Setup_v2.7.0.exe",
   "changelog": [
-    "Nâng cấp độ ổn định Cào & Sản xuất hàng loạt (Batch): Tự động thử lại có giãn cách khi Meta Threads giới hạn truy vấn thoáng qua (HTTP 429 / 5xx), phân biệt chính xác bài viết 404/riêng tư, tự động chuyển tiếp sang phiên Threads đã đăng nhập khi chế độ khách bị giới hạn, và tự khôi phục mục lỗi cào khi bấm chạy hàng loạt.",
-    "Hoàn thiện tính năng 'Quy tắc cards' & Bảng Quy Tắc Phát Âm: Áp dụng đồng bộ quy tắc hiển thị trên cả dữ liệu bộ nhớ đệm/sửa tay mà không nhân đôi ký tự thay thế; sửa lỗi nhấn phím Enter trong ô tìm kiếm làm đóng bảng quy tắc.",
-    "Cập nhật hiệu ứng âm thanh mặc định mới khi ảnh đính kèm xuất hiện sau lúc đọc hết câu chữ.",
-    "Tối ưu hóa hiệu năng, giảm cảnh báo lỗi lặp khi hủy hàng đợi và tăng cường độ ổn định toàn hệ thống."
+    "Ra mắt tab Truyện (📖 Truyện): hỗ trợ dựng video kể chuyện và tin nhắn hội thoại kèm panel tiêu đề chuyển sắc, xem trước bố cục 9:16 trực tiếp và tích hợp Gemini tự động viết kịch bản.",
+    "Tab Truyện: thêm 10 bảng màu cho panel tiêu đề, nút Copy prompt để dán vào ChatGPT/Gemini/Claude không cần API key, giữ một giọng đọc xuyên suốt cả truyện, tự xoay video nền ngẫu nhiên sau mỗi video (nút 🎲 Đổi để đổi ngay) và ghi nhớ cài đặt cho lần mở sau.",
+    "Bản thảo CapCut của video truyện nay có đầy đủ panel tiêu đề ở đáy, áp dụng cả khi xuất lại dự án cũ từ tab Dự án.",
+    "Khắc phục lỗi giọng đọc đọc sai các từ đã được che trên thẻ (VD: đ*o, đ.m); giọng đọc nay luôn dùng nội dung gốc kèm quy tắc phát âm, kể cả khi bật Dịch AI. Làm mới giao diện 4 tab chính nổi bật, dễ chuyển đổi hơn.",
+    "Khắc phục triệt để lỗi treo cứng khi quét bình luận trên các bài viết dài hoặc đường dẫn có hậu tố /media; nâng ngưỡng bộ nhớ trình duyệt và tự động làm mới phiên quét tức thì khi người dùng bấm Dừng quét rồi quét lại.",
+    "Khắc phục triệt để lỗi mất tiếng khi nghe thử giọng đọc hoặc SFX sau lúc cắm/rút tai nghe hoặc đổi thiết bị phát âm thanh trên Windows; đồng thời tối ưu tự động chuyển model dự phòng khi Gemini chạm giới hạn tần suất (HTTP 429).",
+    "Tối ưu tệp âm thanh mặc định khi bung ảnh đính kèm, khắc phục lỗi thao tác nút bấm trong trình sửa hội thoại và tinh chỉnh hiển thị phông chữ giao diện ổn định hơn trên Windows.",
+    "Meme video nay phát trọn vẹn (tối đa 2,5 giây), người bình luận không còn trùng giọng với chủ bài, ảnh đính kèm được lưu vào thư mục dự án để dựng lại không bị mất; tab Truyện thêm nút 🔊 Nghe thử giọng và nút tạo hết kịch bản trong kho liên tục."
   ],
-  "signature": "53921cf0068025baa2d8a52a23cc4ab8a124315bb4cfa0d9b8ee5f04c8cab7ce003e2abc74ace002939d8905664ca5b5822c7564ee0c4e262f080a4215928204"
+  "signature": "1abd6673eefb1021380c84b4ad4a1c609cae4759ddf96547be051933ba0ed6f578a28777d3c43a4f20a4e8e36bf585f80b52bf1c34fec04e1864d3732b0bfa0b"
 }
