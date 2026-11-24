@@ -1,23 +1,17 @@
 {
-  "version": "2.6.8",
-  "release_date": "2026-11-24T03:00:40.212735+00:00",
+  "version": "2.6.9",
+  "release_date": "2026-11-24T06:47:11.472218+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145514064,
-  "sha256": "0ba88d0d9f562c86c9bf527dbcf108e3d4bc060c1062ee88ee03099886923b23",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.8/Threads2Video_Setup_v2.6.8.exe",
+  "size_bytes": 145507556,
+  "sha256": "a85732d9454301cd3a649b950e293454e85fb7d02ce71f47b30744cf256a8446",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.9/Threads2Video_Setup_v2.6.9.exe",
   "changelog": [
-    "Thêm tính năng 'Hiệu ứng đọc hết câu chữ rồi mới hiện ảnh đính kèm': Tạo sự tò mò và giữ chân người xem video trước khi bung ảnh kết quả / meme, hỗ trợ tùy chỉnh thời gian dừng ngắm ảnh linh hoạt và cơ chế phát âm thanh bung ảnh (mặc định 'tiếng xì hơi vang vọng' hoặc file âm thanh tự chọn trên máy) kèm nút nghe thử trực quan.",
-    "Tinh chỉnh giao diện Trợ lý AI & Bảng chọn bình luận: Tối ưu thanh công cụ chọn model Gemini và các nút chức năng rộng rãi, trực quan; hỗ trợ chèn và đổi ảnh đính kèm trực tiếp từ máy tính mượt mà.",
-    "Khắc phục triệt để lỗi máy chủ quá tải (HTTP 503) và treo chờ (Timeout) khi quét chữ hoặc đoạn chat trong ảnh: Chuyển sang model Gemini 3.5 Flash tiêu chuẩn ổn định cao và độ trễ cực thấp.",
-    "Tích hợp cơ chế tự phục hồi và chuyển đổi đa model dự phòng thông minh (Smart Multi-Model Fallback): Tự động thử lại và luân chuyển sang model dự phòng (Gemini 3.6 Flash / 3 Flash Preview) khi Google quá tải, đảm bảo quá trình quét ảnh không bị gián đoạn.",
-    "Đọc tin nhắn trong ảnh toàn diện (Gemini Vision Image Chat): Nhận diện mượt mà và tự động cắt lát progressive reveal mọi ảnh tin nhắn/thông báo (Messenger, Zalo, iMessage, Instagram, SMS...) trên cả bài gốc lẫn từng bình luận; chuẩn hóa tọa độ bounding box, bảo toàn nội dung thẻ gọn gàng và lọc sạch tên người gửi, thời gian để giọng đọc tự nhiên nhất.",
-    "Cải tiến Bảng Quy Tắc Phát Âm AI: Bổ sung ô tìm kiếm nhanh quy tắc và hỗ trợ xác nhận ghi đè trực tiếp khi nhập trùng từ gốc.",
-    "Thêm nút 'Quy tắc cards' ngay cạnh 'Quy Tắc 🔊': Cho phép thiết lập bảng quy tắc tự động thay thế hoặc che từ ngữ nhạy cảm hiển thị trực tiếp trên thẻ bài viết trong video mà không làm thay đổi lời đọc của AI.",
-    "Tối ưu chuyển tiếp âm thanh trước khi bung ảnh: Rút gọn khoảng lặng dư cuối câu đọc giúp ảnh hiển thị tức thì và đồng bộ với âm thanh hiệu ứng.",
-    "Hoàn thiện hệ thống phím tắt & nút đóng [X] trên toàn bộ cửa sổ: Bổ sung nút đóng và xử lý sự kiện đóng cửa sổ Trợ lý AI trên Windows, dừng an toàn tiến trình nền khi thoát.",
-    "Tối ưu hóa hiệu năng, giảm độ trễ và tăng cường độ ổn định toàn hệ thống."
+    "Nâng cấp độ ổn định Cào & Sản xuất hàng loạt (Batch): Tự động thử lại có giãn cách khi Meta Threads giới hạn truy vấn thoáng qua (HTTP 429 / 5xx), phân biệt chính xác bài viết 404/riêng tư, tự động chuyển tiếp sang phiên Threads đã đăng nhập khi chế độ khách bị giới hạn, và tự khôi phục mục lỗi cào khi bấm chạy hàng loạt.",
+    "Hoàn thiện tính năng 'Quy tắc cards' & Bảng Quy Tắc Phát Âm: Áp dụng đồng bộ quy tắc hiển thị trên cả dữ liệu bộ nhớ đệm/sửa tay mà không nhân đôi ký tự thay thế; sửa lỗi nhấn phím Enter trong ô tìm kiếm làm đóng bảng quy tắc.",
+    "Cập nhật hiệu ứng âm thanh mặc định mới khi ảnh đính kèm xuất hiện sau lúc đọc hết câu chữ.",
+    "Tối ưu hóa hiệu năng, giảm cảnh báo lỗi lặp khi hủy hàng đợi và tăng cường độ ổn định toàn hệ thống."
   ],
-  "signature": "6f0a877b329195c3cbd548a544be05b93d1262606030bcc3aa4ea438c7a66e96d5230fe8489aec8aac4e32f26f5cf2eceffd69158f1c6011f0f771e88e207e0d"
+  "signature": "53921cf0068025baa2d8a52a23cc4ab8a124315bb4cfa0d9b8ee5f04c8cab7ce003e2abc74ace002939d8905664ca5b5822c7564ee0c4e262f080a4215928204"
 }
