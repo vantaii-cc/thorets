@@ -1,18 +1,23 @@
 {
-  "version": "2.6.7",
-  "release_date": "2026-11-23T03:56:51.531355+00:00",
+  "version": "2.6.8",
+  "release_date": "2026-11-24T03:00:40.212735+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145314030,
-  "sha256": "294b3c9422363a055f8c1f7bcf928853f11fa4549c9f9433b80ad0a5ed41f62a",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.7/Threads2Video_Setup_v2.6.7.exe",
+  "size_bytes": 145514064,
+  "sha256": "0ba88d0d9f562c86c9bf527dbcf108e3d4bc060c1062ee88ee03099886923b23",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.6.8/Threads2Video_Setup_v2.6.8.exe",
   "changelog": [
-    "Cập nhật danh mục model Google Gemini mới nhất theo thời điểm hiện tại: Mặc định chuẩn `gemini-3.5-flash-lite` và `gemini-flash-lite-latest` (tự động cập nhật), bổ sung `gemini-3.5-flash` và `gemini-3.6-flash`, loại bỏ hoàn toàn các model cũ đã hết hạn truy cập (HTTP 404).",
-    "Đọc tin nhắn trong ảnh toàn diện (Gemini Vision Image Chat): Nhận diện mượt mà và tự động cắt lát progressive reveal mọi ảnh tin nhắn/thông báo (Messenger, Zalo, iMessage, Instagram, SMS...); chuẩn hóa tọa độ bounding box và lọc sạch tên người gửi, thời gian để giọng đọc tự nhiên nhất.",
-    "Hỗ trợ đầy đủ trường hợp ảnh chỉ có 1 tin nhắn đơn lẻ hoặc chuỗi nhiều tin nhắn liên tiếp.",
+    "Thêm tính năng 'Hiệu ứng đọc hết câu chữ rồi mới hiện ảnh đính kèm': Tạo sự tò mò và giữ chân người xem video trước khi bung ảnh kết quả / meme, hỗ trợ tùy chỉnh thời gian dừng ngắm ảnh linh hoạt và cơ chế phát âm thanh bung ảnh (mặc định 'tiếng xì hơi vang vọng' hoặc file âm thanh tự chọn trên máy) kèm nút nghe thử trực quan.",
+    "Tinh chỉnh giao diện Trợ lý AI & Bảng chọn bình luận: Tối ưu thanh công cụ chọn model Gemini và các nút chức năng rộng rãi, trực quan; hỗ trợ chèn và đổi ảnh đính kèm trực tiếp từ máy tính mượt mà.",
+    "Khắc phục triệt để lỗi máy chủ quá tải (HTTP 503) và treo chờ (Timeout) khi quét chữ hoặc đoạn chat trong ảnh: Chuyển sang model Gemini 3.5 Flash tiêu chuẩn ổn định cao và độ trễ cực thấp.",
+    "Tích hợp cơ chế tự phục hồi và chuyển đổi đa model dự phòng thông minh (Smart Multi-Model Fallback): Tự động thử lại và luân chuyển sang model dự phòng (Gemini 3.6 Flash / 3 Flash Preview) khi Google quá tải, đảm bảo quá trình quét ảnh không bị gián đoạn.",
+    "Đọc tin nhắn trong ảnh toàn diện (Gemini Vision Image Chat): Nhận diện mượt mà và tự động cắt lát progressive reveal mọi ảnh tin nhắn/thông báo (Messenger, Zalo, iMessage, Instagram, SMS...) trên cả bài gốc lẫn từng bình luận; chuẩn hóa tọa độ bounding box, bảo toàn nội dung thẻ gọn gàng và lọc sạch tên người gửi, thời gian để giọng đọc tự nhiên nhất.",
+    "Cải tiến Bảng Quy Tắc Phát Âm AI: Bổ sung ô tìm kiếm nhanh quy tắc và hỗ trợ xác nhận ghi đè trực tiếp khi nhập trùng từ gốc.",
+    "Thêm nút 'Quy tắc cards' ngay cạnh 'Quy Tắc 🔊': Cho phép thiết lập bảng quy tắc tự động thay thế hoặc che từ ngữ nhạy cảm hiển thị trực tiếp trên thẻ bài viết trong video mà không làm thay đổi lời đọc của AI.",
+    "Tối ưu chuyển tiếp âm thanh trước khi bung ảnh: Rút gọn khoảng lặng dư cuối câu đọc giúp ảnh hiển thị tức thì và đồng bộ với âm thanh hiệu ứng.",
     "Hoàn thiện hệ thống phím tắt & nút đóng [X] trên toàn bộ cửa sổ: Bổ sung nút đóng và xử lý sự kiện đóng cửa sổ Trợ lý AI trên Windows, dừng an toàn tiến trình nền khi thoát.",
     "Tối ưu hóa hiệu năng, giảm độ trễ và tăng cường độ ổn định toàn hệ thống."
   ],
-  "signature": "f507c321d702343f7c7c8bc7ebf5435c7fdb7c5bc9f992edd97945292341da9dd215f02f56f162abe8e4f7b8fff6610045b7f76d3a66dd21ed6d2ca7dc82640e"
+  "signature": "6f0a877b329195c3cbd548a544be05b93d1262606030bcc3aa4ea438c7a66e96d5230fe8489aec8aac4e32f26f5cf2eceffd69158f1c6011f0f771e88e207e0d"
 }
