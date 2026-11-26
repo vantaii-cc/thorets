@@ -1,12 +1,12 @@
 {
-  "version": "2.7.1",
-  "release_date": "2026-11-25T13:57:48.804771+00:00",
+  "version": "2.7.2",
+  "release_date": "2026-11-25T23:31:41.684790+00:00",
   "min_supported_version": "1.0.0",
   "mandatory": false,
   "channel": "stable",
-  "size_bytes": 145830956,
-  "sha256": "fb0ff64894c7a9747057871b434a4e35fc066a31792153a5ceba992b812af3c1",
-  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.7.1/Threads2Video_Setup_v2.7.1.exe",
+  "size_bytes": 143910157,
+  "sha256": "5272e2d9c171c2d3270d1532b91afec2709e5c523fb4f46b57b3a462bc35033d",
+  "download_url": "https://github.com/vantaii-cc/thorets/releases/download/v2.7.2/Threads2Video_Setup_v2.7.2.exe",
   "changelog": [
     "Ra mắt tab Truyện (📖 Truyện): hỗ trợ dựng video kể chuyện và tin nhắn hội thoại kèm panel tiêu đề chuyển sắc, xem trước bố cục 9:16 trực tiếp và tích hợp Gemini tự động viết kịch bản.",
     "Tab Truyện: thêm 10 bảng màu cho panel tiêu đề, nút Copy prompt để dán vào ChatGPT/Gemini/Claude không cần API key, giữ một giọng đọc xuyên suốt cả truyện, tự xoay video nền ngẫu nhiên sau mỗi video (nút 🎲 Đổi để đổi ngay) và ghi nhớ cài đặt cho lần mở sau.",
@@ -16,7 +16,9 @@
     "Khắc phục triệt để lỗi mất tiếng khi nghe thử giọng đọc hoặc SFX sau lúc cắm/rút tai nghe hoặc đổi thiết bị phát âm thanh trên Windows; đồng thời tối ưu tự động chuyển model dự phòng khi Gemini chạm giới hạn tần suất (HTTP 429).",
     "Tối ưu tệp âm thanh mặc định khi bung ảnh đính kèm, khắc phục lỗi thao tác nút bấm trong trình sửa hội thoại và tinh chỉnh hiển thị phông chữ giao diện ổn định hơn trên Windows.",
     "Meme video nay phát trọn vẹn (tối đa 2,5 giây), người bình luận không còn trùng giọng với chủ bài, ảnh đính kèm được lưu vào thư mục dự án để dựng lại không bị mất; tab Truyện thêm nút 🔊 Nghe thử giọng và nút tạo hết kịch bản trong kho liên tục.",
-    "Đồng bộ âm thanh hiệu ứng bung ảnh giữa hộp thoại nghe thử và video xuất ra, giữ đúng thời lượng dừng xem ảnh đã cài đặt; căn chỉnh vị trí & tỉ lệ meme trong bản thảo CapCut khớp với khung xem trước, bổ sung nhấp đúp mở nhanh trình xem trước và lưu giữ nội dung hiển thị chỉnh tay."
+    "Đồng bộ âm thanh hiệu ứng bung ảnh giữa hộp thoại nghe thử và video xuất ra, giữ đúng thời lượng dừng xem ảnh đã cài đặt; căn chỉnh vị trí & tỉ lệ meme trong bản thảo CapCut khớp với khung xem trước, bổ sung nhấp đúp mở nhanh trình xem trước và lưu giữ nội dung hiển thị chỉnh tay.",
+    "Ra mắt tab Studio thẻ (🃏 Studio thẻ): tự do đặt và đổi cỡ thẻ Threads chuẩn giao diện thật trên khung xem trước 9:16 (hỗ trợ cửa sổ phóng to, tự căn giữa, giữ nguyên bố cục cho mọi thẻ), AI viết kịch bản kèm lời đọc TTS riêng, nút Copy prompt dùng ngoài không cần API key và tự ẩn thẻ khi meme phát trên cả MP4 lẫn bản thảo CapCut.",
+    "Cải thiện dịch AI theo ngữ cảnh hội thoại (nhận diện vai trò tác giả/bình luận/trả lời để xưng hô nhất quán, dịch mạch lạc bài viết tách đoạn và tự xử lý bài dài theo lô); làm mới video nền mặc định chuyển động mượt mà hơn."
   ],
-  "signature": "4a0e3c645c916528d385d8309e7da6ae809968cb151a928921a6ea223e8ebeec8c18e8b8763e576740432cb27d124b64e8503ef18de830979b931b46484d8a01"
+  "signature": "936780a494a8e6576e4c8773922b7364da79f230f1d2bb4ec7631b943c794700bfef089e12773e8138754eb7bb7f98b0318d31f06d2192fb33b0ce40ae13c308"
 }
